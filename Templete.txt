@@ -1,0 +1,12 @@
+vapor_template = go.layout.Template(
+    layout=dict(
+        title=dict(
+            font=dict(size=24, color='#000000')  # Cor verde para o título
+        ),
+        plot_bgcolor='rgba(0, 0, 0, 0)',  # Fundo do gráfico transparente
+        paper_bgcolor='rgba(0, 0, 0, 0)',  # Fundo do papel (em torno do gráfico) transparente
+        colorway=['#0000ff', '#ffffff', '#ff0000'],  # Gradiente azul-branco-vermelho
+        xaxis=dict(color='#4FFBE2', showgrid=True, gridcolor='#1C1C41'),
+        yaxis=dict(color='#4FFBE2', showgrid=True, gridcolor='#1C1C41')
+    )
+)

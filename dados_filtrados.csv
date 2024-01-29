@@ -1,0 +1,1232 @@
+Date,Time,Visitor,PTS Visitor,Home,PTS Home
+2023-10-24,7:30p,Los Angeles Lakers,107.0,Denver Nuggets,119.0
+2023-10-24,10:00p,Phoenix Suns,108.0,Golden State Warriors,104.0
+2023-10-25,7:00p,Houston Rockets,86.0,Orlando Magic,116.0
+2023-10-25,7:00p,Boston Celtics,108.0,New York Knicks,104.0
+2023-10-25,7:00p,Washington Wizards,120.0,Indiana Pacers,143.0
+2023-10-25,7:00p,Atlanta Hawks,110.0,Charlotte Hornets,116.0
+2023-10-25,7:30p,Detroit Pistons,102.0,Miami Heat,103.0
+2023-10-25,7:30p,Minnesota Timberwolves,94.0,Toronto Raptors,97.0
+2023-10-25,7:30p,Cleveland Cavaliers,114.0,Brooklyn Nets,113.0
+2023-10-25,8:00p,New Orleans Pelicans,111.0,Memphis Grizzlies,104.0
+2023-10-25,8:00p,Oklahoma City Thunder,124.0,Chicago Bulls,104.0
+2023-10-25,9:00p,Sacramento Kings,130.0,Utah Jazz,114.0
+2023-10-25,9:30p,Dallas Mavericks,126.0,San Antonio Spurs,119.0
+2023-10-25,10:30p,Portland Trail Blazers,111.0,Los Angeles Clippers,123.0
+2023-10-26,7:30p,Philadelphia 76ers,117.0,Milwaukee Bucks,118.0
+2023-10-26,10:00p,Phoenix Suns,95.0,Los Angeles Lakers,100.0
+2023-10-27,7:00p,Denver Nuggets,108.0,Memphis Grizzlies,104.0
+2023-10-27,7:00p,Detroit Pistons,111.0,Charlotte Hornets,99.0
+2023-10-27,7:30p,New York Knicks,126.0,Atlanta Hawks,120.0
+2023-10-27,7:30p,Oklahoma City Thunder,108.0,Cleveland Cavaliers,105.0
+2023-10-27,7:30p,Miami Heat,111.0,Boston Celtics,119.0
+2023-10-27,8:00p,Toronto Raptors,103.0,Chicago Bulls,104.0
+2023-10-27,8:00p,Houston Rockets,122.0,San Antonio Spurs,126.0
+2023-10-27,8:30p,Brooklyn Nets,120.0,Dallas Mavericks,125.0
+2023-10-27,9:30p,Los Angeles Clippers,118.0,Utah Jazz,120.0
+2023-10-27,10:00p,Orlando Magic,102.0,Portland Trail Blazers,97.0
+2023-10-27,10:00p,Golden State Warriors,122.0,Sacramento Kings,114.0
+2023-10-28,7:00p,Chicago Bulls,102.0,Detroit Pistons,118.0
+2023-10-28,7:00p,Memphis Grizzlies,106.0,Washington Wizards,113.0
+2023-10-28,7:00p,New York Knicks,87.0,New Orleans Pelicans,96.0
+2023-10-28,7:30p,Indiana Pacers,125.0,Cleveland Cavaliers,113.0
+2023-10-28,7:30p,Philadelphia 76ers,114.0,Toronto Raptors,107.0
+2023-10-28,8:00p,Miami Heat,90.0,Minnesota Timberwolves,106.0
+2023-10-28,10:00p,Utah Jazz,104.0,Phoenix Suns,126.0
+2023-10-29,3:30p,Denver Nuggets,128.0,Oklahoma City Thunder,95.0
+2023-10-29,7:00p,Golden State Warriors,106.0,Houston Rockets,95.0
+2023-10-29,7:00p,Atlanta Hawks,127.0,Milwaukee Bucks,110.0
+2023-10-29,7:30p,Portland Trail Blazers,98.0,Philadelphia 76ers,126.0
+2023-10-29,9:00p,San Antonio Spurs,83.0,Los Angeles Clippers,123.0
+2023-10-29,9:00p,Los Angeles Lakers,127.0,Sacramento Kings,132.0
+2023-10-30,7:00p,Chicago Bulls,112.0,Indiana Pacers,105.0
+2023-10-30,7:00p,Boston Celtics,126.0,Washington Wizards,107.0
+2023-10-30,7:00p,Brooklyn Nets,133.0,Charlotte Hornets,121.0
+2023-10-30,7:30p,Portland Trail Blazers,99.0,Toronto Raptors,91.0
+2023-10-30,7:30p,Minnesota Timberwolves,113.0,Atlanta Hawks,127.0
+2023-10-30,8:00p,Dallas Mavericks,125.0,Memphis Grizzlies,110.0
+2023-10-30,8:00p,Miami Heat,114.0,Milwaukee Bucks,122.0
+2023-10-30,8:00p,Golden State Warriors,130.0,New Orleans Pelicans,102.0
+2023-10-30,8:00p,Detroit Pistons,112.0,Oklahoma City Thunder,124.0
+2023-10-30,9:00p,Utah Jazz,102.0,Denver Nuggets,110.0
+2023-10-30,10:30p,Orlando Magic,103.0,Los Angeles Lakers,106.0
+2023-10-31,7:30p,New York Knicks,109.0,Cleveland Cavaliers,91.0
+2023-10-31,10:00p,San Antonio Spurs,115.0,Phoenix Suns,114.0
+2023-10-31,10:30p,Orlando Magic,102.0,Los Angeles Clippers,118.0
+2023-11-01,7:00p,Portland Trail Blazers,110.0,Detroit Pistons,101.0
+2023-11-01,7:00p,Milwaukee Bucks,111.0,Toronto Raptors,130.0
+2023-11-01,7:30p,Washington Wizards,121.0,Atlanta Hawks,130.0
+2023-11-01,7:30p,Indiana Pacers,104.0,Boston Celtics,155.0
+2023-11-01,7:30p,Brooklyn Nets,109.0,Miami Heat,105.0
+2023-11-01,7:30p,Cleveland Cavaliers,95.0,New York Knicks,89.0
+2023-11-01,7:30p,New Orleans Pelicans,110.0,Oklahoma City Thunder,106.0
+2023-11-01,8:00p,Charlotte Hornets,119.0,Houston Rockets,128.0
+2023-11-01,8:00p,Denver Nuggets,89.0,Minnesota Timberwolves,110.0
+2023-11-01,8:30p,Chicago Bulls,105.0,Dallas Mavericks,114.0
+2023-11-01,9:00p,Memphis Grizzlies,109.0,Utah Jazz,133.0
+2023-11-01,10:00p,Sacramento Kings,101.0,Golden State Warriors,102.0
+2023-11-01,10:00p,Los Angeles Clippers,125.0,Los Angeles Lakers,130.0
+2023-11-02,7:00p,Toronto Raptors,99.0,Philadelphia 76ers,114.0
+2023-11-02,8:00p,Detroit Pistons,116.0,New Orleans Pelicans,125.0
+2023-11-02,9:00p,Orlando Magic,115.0,Utah Jazz,113.0
+2023-11-02,10:00p,San Antonio Spurs,132.0,Phoenix Suns,121.0
+2023-11-03,7:00p,Cleveland Cavaliers,116.0,Indiana Pacers,121.0
+2023-11-03,7:30p,New York Knicks,105.0,Milwaukee Bucks,110.0
+2023-11-03,8:00p,Brooklyn Nets,109.0,Chicago Bulls,107.0
+2023-11-03,8:00p,Washington Wizards,114.0,Miami Heat,121.0
+2023-11-03,8:00p,Golden State Warriors,141.0,Oklahoma City Thunder,139.0
+2023-11-03,10:00p,Dallas Mavericks,114.0,Denver Nuggets,125.0
+2023-11-03,10:00p,Memphis Grizzlies,113.0,Portland Trail Blazers,115.0
+2023-11-04,1:00p,Phoenix Suns,100.0,Philadelphia 76ers,112.0
+2023-11-04,7:00p,Charlotte Hornets,125.0,Indiana Pacers,124.0
+2023-11-04,7:00p,Atlanta Hawks,123.0,New Orleans Pelicans,105.0
+2023-11-04,7:00p,Los Angeles Lakers,101.0,Orlando Magic,120.0
+2023-11-04,8:00p,Boston Celtics,124.0,Brooklyn Nets,114.0
+2023-11-04,8:00p,Sacramento Kings,89.0,Houston Rockets,107.0
+2023-11-04,8:00p,Utah Jazz,95.0,Minnesota Timberwolves,123.0
+2023-11-04,9:00p,Chicago Bulls,101.0,Denver Nuggets,123.0
+2023-11-05,3:00p,Phoenix Suns,120.0,Detroit Pistons,106.0
+2023-11-05,3:30p,Toronto Raptors,123.0,San Antonio Spurs,116.0
+2023-11-05,6:00p,Golden State Warriors,104.0,Cleveland Cavaliers,115.0
+2023-11-05,7:30p,Charlotte Hornets,118.0,Dallas Mavericks,124.0
+2023-11-05,9:00p,Memphis Grizzlies,112.0,Portland Trail Blazers,100.0
+2023-11-06,7:00p,Golden State Warriors,120.0,Detroit Pistons,109.0
+2023-11-06,7:00p,San Antonio Spurs,111.0,Indiana Pacers,152.0
+2023-11-06,7:00p,Dallas Mavericks,117.0,Orlando Magic,102.0
+2023-11-06,7:00p,Washington Wizards,128.0,Philadelphia 76ers,146.0
+2023-11-06,7:30p,Milwaukee Bucks,129.0,Brooklyn Nets,125.0
+2023-11-06,7:30p,Los Angeles Lakers,107.0,Miami Heat,108.0
+2023-11-06,7:30p,Los Angeles Clippers,97.0,New York Knicks,111.0
+2023-11-06,8:00p,Utah Jazz,113.0,Chicago Bulls,130.0
+2023-11-06,8:00p,Sacramento Kings,97.0,Houston Rockets,122.0
+2023-11-06,8:00p,Boston Celtics,109.0,Minnesota Timberwolves,114.0
+2023-11-06,8:00p,Atlanta Hawks,117.0,Oklahoma City Thunder,126.0
+2023-11-06,9:00p,New Orleans Pelicans,116.0,Denver Nuggets,134.0
+2023-11-08,7:00p,Washington Wizards,132.0,Charlotte Hornets,116.0
+2023-11-08,7:00p,Utah Jazz,118.0,Indiana Pacers,134.0
+2023-11-08,7:00p,Boston Celtics,103.0,Philadelphia 76ers,106.0
+2023-11-08,7:30p,Los Angeles Clippers,93.0,Brooklyn Nets,100.0
+2023-11-08,7:30p,San Antonio Spurs,105.0,New York Knicks,126.0
+2023-11-08,8:00p,Phoenix Suns,116.0,Chicago Bulls,115.0
+2023-11-08,8:00p,Los Angeles Lakers,94.0,Houston Rockets,128.0
+2023-11-08,8:00p,Miami Heat,108.0,Memphis Grizzlies,102.0
+2023-11-08,8:00p,Detroit Pistons,118.0,Milwaukee Bucks,120.0
+2023-11-08,8:00p,New Orleans Pelicans,101.0,Minnesota Timberwolves,122.0
+2023-11-08,8:00p,Cleveland Cavaliers,120.0,Oklahoma City Thunder,128.0
+2023-11-08,8:30p,Toronto Raptors,127.0,Dallas Mavericks,116.0
+2023-11-08,10:00p,Golden State Warriors,105.0,Denver Nuggets,108.0
+2023-11-08,10:00p,Portland Trail Blazers,118.0,Sacramento Kings,121.0
+2023-11-09,7:00p,Milwaukee Bucks,124.0,Indiana Pacers,126.0
+2023-11-09,9:30p,Atlanta Hawks,120.0,Orlando Magic,119.0
+2023-11-10,7:00p,Philadelphia 76ers,114.0,Detroit Pistons,106.0
+2023-11-10,7:00p,Charlotte Hornets,124.0,Washington Wizards,117.0
+2023-11-10,7:30p,Brooklyn Nets,107.0,Boston Celtics,121.0
+2023-11-10,8:00p,New Orleans Pelicans,101.0,Houston Rockets,104.0
+2023-11-10,8:00p,Utah Jazz,127.0,Memphis Grizzlies,121.0
+2023-11-10,8:00p,Minnesota Timberwolves,117.0,San Antonio Spurs,110.0
+2023-11-10,8:30p,Los Angeles Clippers,126.0,Dallas Mavericks,144.0
+2023-11-10,10:00p,Los Angeles Lakers,122.0,Phoenix Suns,119.0
+2023-11-10,10:00p,Oklahoma City Thunder,98.0,Sacramento Kings,105.0
+2023-11-11,6:00p,Milwaukee Bucks,97.0,Orlando Magic,112.0
+2023-11-11,7:00p,Toronto Raptors,94.0,Boston Celtics,117.0
+2023-11-11,7:30p,Miami Heat,117.0,Atlanta Hawks,109.0
+2023-11-11,8:30p,Cleveland Cavaliers,118.0,Golden State Warriors,110.0
+2023-11-12,12:00p,Charlotte Hornets,107.0,New York Knicks,129.0
+2023-11-12,3:00p,Washington Wizards,94.0,Brooklyn Nets,102.0
+2023-11-12,3:30p,Memphis Grizzlies,105.0,Los Angeles Clippers,101.0
+2023-11-12,6:00p,Indiana Pacers,126.0,Philadelphia 76ers,137.0
+2023-11-12,7:00p,Detroit Pistons,108.0,Chicago Bulls,119.0
+2023-11-12,7:00p,Denver Nuggets,104.0,Houston Rockets,107.0
+2023-11-12,7:00p,Dallas Mavericks,136.0,New Orleans Pelicans,124.0
+2023-11-12,7:00p,Miami Heat,118.0,San Antonio Spurs,113.0
+2023-11-12,8:00p,Oklahoma City Thunder,111.0,Phoenix Suns,99.0
+2023-11-12,8:30p,Minnesota Timberwolves,116.0,Golden State Warriors,110.0
+2023-11-12,10:00p,Portland Trail Blazers,110.0,Los Angeles Lakers,116.0
+2023-11-13,7:30p,New York Knicks,98.0,Boston Celtics,114.0
+2023-11-13,7:30p,Washington Wizards,107.0,Toronto Raptors,111.0
+2023-11-13,8:00p,Chicago Bulls,109.0,Milwaukee Bucks,118.0
+2023-11-13,10:00p,Cleveland Cavaliers,120.0,Sacramento Kings,132.0
+2023-11-14,7:00p,Miami Heat,111.0,Charlotte Hornets,105.0
+2023-11-14,7:00p,Atlanta Hawks,126.0,Detroit Pistons,120.0
+2023-11-14,7:00p,Indiana Pacers,132.0,Philadelphia 76ers,126.0
+2023-11-14,7:30p,Orlando Magic,104.0,Brooklyn Nets,124.0
+2023-11-14,7:30p,San Antonio Spurs,87.0,Oklahoma City Thunder,123.0
+2023-11-14,8:00p,Dallas Mavericks,110.0,New Orleans Pelicans,131.0
+2023-11-14,9:00p,Portland Trail Blazers,99.0,Utah Jazz,115.0
+2023-11-14,10:00p,Los Angeles Clippers,108.0,Denver Nuggets,111.0
+2023-11-14,10:00p,Minnesota Timberwolves,104.0,Golden State Warriors,101.0
+2023-11-14,10:30p,Memphis Grizzlies,107.0,Los Angeles Lakers,134.0
+2023-11-15,7:00p,Dallas Mavericks,130.0,Washington Wizards,117.0
+2023-11-15,7:30p,New York Knicks,116.0,Atlanta Hawks,114.0
+2023-11-15,7:30p,Boston Celtics,117.0,Philadelphia 76ers,107.0
+2023-11-15,7:30p,Milwaukee Bucks,128.0,Toronto Raptors,112.0
+2023-11-15,8:00p,Orlando Magic,96.0,Chicago Bulls,94.0
+2023-11-15,9:00p,Minnesota Timberwolves,115.0,Phoenix Suns,133.0
+2023-11-15,10:00p,Sacramento Kings,125.0,Los Angeles Lakers,110.0
+2023-11-15,10:00p,Cleveland Cavaliers,109.0,Portland Trail Blazers,95.0
+2023-11-16,7:30p,Brooklyn Nets,115.0,Miami Heat,122.0
+2023-11-16,10:00p,Oklahoma City Thunder,128.0,Golden State Warriors,109.0
+2023-11-17,7:00p,Milwaukee Bucks,130.0,Charlotte Hornets,99.0
+2023-11-17,7:00p,New York Knicks,120.0,Washington Wizards,99.0
+2023-11-17,7:30p,Philadelphia 76ers,126.0,Atlanta Hawks,116.0
+2023-11-17,7:30p,Detroit Pistons,100.0,Cleveland Cavaliers,108.0
+2023-11-17,7:30p,Sacramento Kings,129.0,San Antonio Spurs,120.0
+2023-11-17,7:30p,Boston Celtics,108.0,Toronto Raptors,105.0
+2023-11-17,8:00p,Orlando Magic,103.0,Chicago Bulls,97.0
+2023-11-17,8:00p,Denver Nuggets,110.0,New Orleans Pelicans,115.0
+2023-11-17,10:00p,Los Angeles Lakers,107.0,Portland Trail Blazers,95.0
+2023-11-17,10:00p,Phoenix Suns,131.0,Utah Jazz,128.0
+2023-11-17,10:30p,Houston Rockets,100.0,Los Angeles Clippers,106.0
+2023-11-18,6:00p,New York Knicks,122.0,Charlotte Hornets,108.0
+2023-11-18,7:00p,Minnesota Timberwolves,121.0,New Orleans Pelicans,120.0
+2023-11-18,8:00p,Miami Heat,97.0,Chicago Bulls,102.0
+2023-11-18,8:00p,Dallas Mavericks,125.0,Milwaukee Bucks,132.0
+2023-11-18,8:00p,Memphis Grizzlies,120.0,San Antonio Spurs,108.0
+2023-11-18,8:30p,Oklahoma City Thunder,130.0,Golden State Warriors,123.0
+2023-11-19,3:00p,Philadelphia 76ers,121.0,Brooklyn Nets,99.0
+2023-11-19,4:00p,Detroit Pistons,113.0,Toronto Raptors,142.0
+2023-11-19,5:00p,Orlando Magic,128.0,Indiana Pacers,116.0
+2023-11-19,6:00p,Denver Nuggets,109.0,Cleveland Cavaliers,121.0
+2023-11-19,7:30p,Sacramento Kings,129.0,Dallas Mavericks,113.0
+2023-11-19,8:00p,Boston Celtics,102.0,Memphis Grizzlies,100.0
+2023-11-19,8:00p,Phoenix Suns,140.0,Utah Jazz,137.0
+2023-11-19,9:00p,Oklahoma City Thunder,134.0,Portland Trail Blazers,91.0
+2023-11-19,9:30p,Houston Rockets,104.0,Los Angeles Lakers,105.0
+2023-11-20,7:00p,Boston Celtics,118.0,Charlotte Hornets,121.0
+2023-11-20,7:00p,Denver Nuggets,107.0,Detroit Pistons,103.0
+2023-11-20,7:00p,Milwaukee Bucks,142.0,Washington Wizards,129.0
+2023-11-20,8:00p,Miami Heat,118.0,Chicago Bulls,100.0
+2023-11-20,8:00p,New York Knicks,100.0,Minnesota Timberwolves,117.0
+2023-11-20,8:00p,Sacramento Kings,93.0,New Orleans Pelicans,129.0
+2023-11-20,8:00p,Los Angeles Clippers,124.0,San Antonio Spurs,99.0
+2023-11-20,10:00p,Houston Rockets,116.0,Golden State Warriors,121.0
+2023-11-21,7:00p,Toronto Raptors,107.0,Orlando Magic,126.0
+2023-11-21,7:30p,Indiana Pacers,157.0,Atlanta Hawks,152.0
+2023-11-21,7:30p,Cleveland Cavaliers,122.0,Philadelphia 76ers,119.0
+2023-11-21,9:00p,Portland Trail Blazers,107.0,Phoenix Suns,120.0
+2023-11-21,10:00p,Utah Jazz,99.0,Los Angeles Lakers,131.0
+2023-11-22,7:00p,Washington Wizards,114.0,Charlotte Hornets,117.0
+2023-11-22,7:00p,Denver Nuggets,119.0,Orlando Magic,124.0
+2023-11-22,7:30p,Brooklyn Nets,145.0,Atlanta Hawks,147.0
+2023-11-22,7:30p,Milwaukee Bucks,116.0,Boston Celtics,119.0
+2023-11-22,7:30p,Miami Heat,129.0,Cleveland Cavaliers,96.0
+2023-11-22,7:30p,Toronto Raptors,132.0,Indiana Pacers,131.0
+2023-11-22,8:00p,Memphis Grizzlies,91.0,Houston Rockets,111.0
+2023-11-22,8:00p,Philadelphia 76ers,99.0,Minnesota Timberwolves,112.0
+2023-11-22,8:00p,Sacramento Kings,112.0,New Orleans Pelicans,117.0
+2023-11-22,8:00p,Chicago Bulls,102.0,Oklahoma City Thunder,116.0
+2023-11-22,8:00p,Los Angeles Clippers,109.0,San Antonio Spurs,102.0
+2023-11-22,10:00p,Golden State Warriors,115.0,Phoenix Suns,123.0
+2023-11-22,10:00p,Utah Jazz,105.0,Portland Trail Blazers,121.0
+2023-11-22,10:30p,Dallas Mavericks,104.0,Los Angeles Lakers,101.0
+2023-11-24,2:30p,Boston Celtics,96.0,Orlando Magic,113.0
+2023-11-24,5:00p,Phoenix Suns,110.0,Memphis Grizzlies,89.0
+2023-11-24,7:30p,Miami Heat,98.0,New York Knicks,100.0
+2023-11-24,7:30p,Chicago Bulls,108.0,Toronto Raptors,121.0
+2023-11-24,8:00p,Denver Nuggets,86.0,Houston Rockets,105.0
+2023-11-24,8:00p,Detroit Pistons,113.0,Indiana Pacers,136.0
+2023-11-24,8:00p,Washington Wizards,128.0,Milwaukee Bucks,131.0
+2023-11-24,8:00p,Sacramento Kings,124.0,Minnesota Timberwolves,111.0
+2023-11-24,10:00p,San Antonio Spurs,112.0,Golden State Warriors,118.0
+2023-11-24,10:30p,New Orleans Pelicans,116.0,Los Angeles Clippers,106.0
+2023-11-25,5:00p,Philadelphia 76ers,127.0,Oklahoma City Thunder,123.0
+2023-11-25,6:00p,Miami Heat,97.0,Brooklyn Nets,112.0
+2023-11-25,7:00p,Atlanta Hawks,136.0,Washington Wizards,108.0
+2023-11-25,7:30p,Los Angeles Lakers,121.0,Cleveland Cavaliers,115.0
+2023-11-25,9:30p,New Orleans Pelicans,100.0,Utah Jazz,105.0
+2023-11-25,10:30p,Dallas Mavericks,88.0,Los Angeles Clippers,107.0
+2023-11-26,3:30p,Portland Trail Blazers,102.0,Milwaukee Bucks,108.0
+2023-11-26,6:00p,Atlanta Hawks,103.0,Boston Celtics,113.0
+2023-11-26,6:00p,Minnesota Timberwolves,119.0,Memphis Grizzlies,97.0
+2023-11-26,6:00p,Phoenix Suns,116.0,New York Knicks,113.0
+2023-11-26,6:00p,Charlotte Hornets,117.0,Orlando Magic,130.0
+2023-11-26,7:30p,Chicago Bulls,109.0,Brooklyn Nets,118.0
+2023-11-26,7:30p,Toronto Raptors,102.0,Cleveland Cavaliers,105.0
+2023-11-26,8:00p,San Antonio Spurs,120.0,Denver Nuggets,132.0
+2023-11-27,7:00p,Washington Wizards,126.0,Detroit Pistons,107.0
+2023-11-27,7:00p,Portland Trail Blazers,114.0,Indiana Pacers,110.0
+2023-11-27,7:00p,Los Angeles Lakers,94.0,Philadelphia 76ers,138.0
+2023-11-27,9:00p,New Orleans Pelicans,112.0,Utah Jazz,114.0
+2023-11-27,10:30p,Denver Nuggets,113.0,Los Angeles Clippers,104.0
+2023-11-28,7:30p,Chicago Bulls,97.0,Boston Celtics,124.0
+2023-11-28,7:30p,Toronto Raptors,103.0,Brooklyn Nets,115.0
+2023-11-28,7:30p,Atlanta Hawks,105.0,Cleveland Cavaliers,128.0
+2023-11-28,7:30p,Milwaukee Bucks,131.0,Miami Heat,124.0
+2023-11-28,7:30p,Charlotte Hornets,91.0,New York Knicks,115.0
+2023-11-28,8:00p,Oklahoma City Thunder,103.0,Minnesota Timberwolves,106.0
+2023-11-28,8:30p,Houston Rockets,115.0,Dallas Mavericks,121.0
+2023-11-28,10:00p,Golden State Warriors,123.0,Sacramento Kings,124.0
+2023-11-29,7:00p,Los Angeles Lakers,133.0,Detroit Pistons,107.0
+2023-11-29,7:00p,Washington Wizards,120.0,Orlando Magic,139.0
+2023-11-29,7:30p,Phoenix Suns,105.0,Toronto Raptors,112.0
+2023-11-29,8:00p,Utah Jazz,91.0,Memphis Grizzlies,105.0
+2023-11-29,8:00p,Philadelphia 76ers,114.0,New Orleans Pelicans,124.0
+2023-11-29,9:00p,Houston Rockets,124.0,Denver Nuggets,134.0
+2023-11-29,10:00p,Los Angeles Clippers,131.0,Sacramento Kings,117.0
+2023-11-30,7:00p,Portland Trail Blazers,103.0,Cleveland Cavaliers,95.0
+2023-11-30,7:30p,Charlotte Hornets,129.0,Brooklyn Nets,128.0
+2023-11-30,7:30p,Indiana Pacers,132.0,Miami Heat,142.0
+2023-11-30,7:30p,Detroit Pistons,112.0,New York Knicks,118.0
+2023-11-30,8:00p,Milwaukee Bucks,113.0,Chicago Bulls,120.0
+2023-11-30,8:00p,Utah Jazz,90.0,Minnesota Timberwolves,101.0
+2023-11-30,8:00p,Los Angeles Lakers,110.0,Oklahoma City Thunder,133.0
+2023-11-30,8:00p,Atlanta Hawks,137.0,San Antonio Spurs,135.0
+2023-11-30,10:00p,Los Angeles Clippers,114.0,Golden State Warriors,120.0
+2023-12-01,7:00p,Washington Wizards,125.0,Orlando Magic,130.0
+2023-12-01,7:30p,Philadelphia 76ers,119.0,Boston Celtics,125.0
+2023-12-01,7:30p,Memphis Grizzlies,108.0,Dallas Mavericks,94.0
+2023-12-01,7:30p,New York Knicks,119.0,Toronto Raptors,106.0
+2023-12-01,8:00p,San Antonio Spurs,106.0,New Orleans Pelicans,121.0
+2023-12-01,10:00p,Denver Nuggets,119.0,Phoenix Suns,111.0
+2023-12-02,4:00p,Golden State Warriors,112.0,Los Angeles Clippers,113.0
+2023-12-02,5:00p,Minnesota Timberwolves,123.0,Charlotte Hornets,117.0
+2023-12-02,7:00p,Orlando Magic,101.0,Brooklyn Nets,129.0
+2023-12-02,7:00p,Cleveland Cavaliers,110.0,Detroit Pistons,101.0
+2023-12-02,8:00p,New Orleans Pelicans,118.0,Chicago Bulls,124.0
+2023-12-02,8:00p,Indiana Pacers,144.0,Miami Heat,129.0
+2023-12-02,8:00p,Atlanta Hawks,121.0,Milwaukee Bucks,132.0
+2023-12-02,9:00p,Oklahoma City Thunder,126.0,Dallas Mavericks,120.0
+2023-12-02,9:00p,Memphis Grizzlies,109.0,Phoenix Suns,116.0
+2023-12-02,9:30p,Portland Trail Blazers,113.0,Utah Jazz,118.0
+2023-12-02,10:00p,Denver Nuggets,117.0,Sacramento Kings,123.0
+2023-12-02,10:30p,Houston Rockets,97.0,Los Angeles Lakers,107.0
+2023-12-04,7:30p,Boston Celtics,112.0,Indiana Pacers,122.0
+2023-12-04,10:00p,New Orleans Pelicans,127.0,Sacramento Kings,117.0
+2023-12-05,7:30p,New York Knicks,122.0,Milwaukee Bucks,146.0
+2023-12-05,10:00p,Phoenix Suns,103.0,Los Angeles Lakers,106.0
+2023-12-06,7:00p,Orlando Magic,111.0,Cleveland Cavaliers,121.0
+2023-12-06,7:00p,Memphis Grizzlies,116.0,Detroit Pistons,102.0
+2023-12-06,7:00p,Philadelphia 76ers,131.0,Washington Wizards,126.0
+2023-12-06,7:30p,Brooklyn Nets,114.0,Atlanta Hawks,113.0
+2023-12-06,7:30p,San Antonio Spurs,94.0,Minnesota Timberwolves,102.0
+2023-12-06,7:30p,Miami Heat,112.0,Toronto Raptors,103.0
+2023-12-06,8:00p,Charlotte Hornets,100.0,Chicago Bulls,111.0
+2023-12-06,8:00p,Oklahoma City Thunder,101.0,Houston Rockets,110.0
+2023-12-06,8:30p,Utah Jazz,97.0,Dallas Mavericks,147.0
+2023-12-06,10:00p,Portland Trail Blazers,106.0,Golden State Warriors,110.0
+2023-12-06,10:00p,Denver Nuggets,102.0,Los Angeles Clippers,111.0
+2023-12-07,5:00p,Indiana Pacers,128.0,Milwaukee Bucks,119.0
+2023-12-07,9:00p,New Orleans Pelicans,89.0,Los Angeles Lakers,133.0
+2023-12-08,7:00p,Toronto Raptors,116.0,Charlotte Hornets,119.0
+2023-12-08,7:00p,Detroit Pistons,91.0,Orlando Magic,123.0
+2023-12-08,7:00p,Atlanta Hawks,114.0,Philadelphia 76ers,125.0
+2023-12-08,7:30p,New York Knicks,123.0,Boston Celtics,133.0
+2023-12-08,7:30p,Washington Wizards,97.0,Brooklyn Nets,124.0
+2023-12-08,8:00p,Minnesota Timberwolves,127.0,Memphis Grizzlies,103.0
+2023-12-08,8:00p,Cleveland Cavaliers,111.0,Miami Heat,99.0
+2023-12-08,8:00p,Golden State Warriors,136.0,Oklahoma City Thunder,138.0
+2023-12-08,8:30p,Chicago Bulls,121.0,San Antonio Spurs,112.0
+2023-12-08,9:00p,Houston Rockets,114.0,Denver Nuggets,106.0
+2023-12-08,9:00p,Sacramento Kings,114.0,Phoenix Suns,106.0
+2023-12-08,10:00p,Dallas Mavericks,125.0,Portland Trail Blazers,112.0
+2023-12-08,10:00p,Los Angeles Clippers,117.0,Utah Jazz,103.0
+2023-12-09,8:30p,Indiana Pacers,109.0,Los Angeles Lakers,123.0
+2023-12-11,7:00p,Miami Heat,116.0,Charlotte Hornets,114.0
+2023-12-11,7:00p,Indiana Pacers,131.0,Detroit Pistons,123.0
+2023-12-11,7:00p,Cleveland Cavaliers,94.0,Orlando Magic,104.0
+2023-12-11,7:00p,Washington Wizards,101.0,Philadelphia 76ers,146.0
+2023-12-11,7:30p,Denver Nuggets,129.0,Atlanta Hawks,122.0
+2023-12-11,7:30p,Toronto Raptors,130.0,New York Knicks,136.0
+2023-12-11,8:00p,San Antonio Spurs,82.0,Houston Rockets,93.0
+2023-12-11,8:00p,Dallas Mavericks,120.0,Memphis Grizzlies,113.0
+2023-12-11,8:00p,Chicago Bulls,129.0,Milwaukee Bucks,133.0
+2023-12-11,8:00p,Minnesota Timberwolves,107.0,New Orleans Pelicans,121.0
+2023-12-11,8:00p,Utah Jazz,120.0,Oklahoma City Thunder,134.0
+2023-12-11,10:00p,Brooklyn Nets,118.0,Sacramento Kings,131.0
+2023-12-11,10:30p,Portland Trail Blazers,127.0,Los Angeles Clippers,132.0
+2023-12-12,7:30p,Cleveland Cavaliers,113.0,Boston Celtics,120.0
+2023-12-12,7:30p,Los Angeles Lakers,125.0,Dallas Mavericks,127.0
+2023-12-12,8:00p,Denver Nuggets,114.0,Chicago Bulls,106.0
+2023-12-12,10:00p,Golden State Warriors,116.0,Phoenix Suns,119.0
+2023-12-12,10:30p,Sacramento Kings,99.0,Los Angeles Clippers,119.0
+2023-12-13,7:00p,Philadelphia 76ers,129.0,Detroit Pistons,111.0
+2023-12-13,7:00p,New Orleans Pelicans,142.0,Washington Wizards,122.0
+2023-12-13,7:30p,Charlotte Hornets,104.0,Miami Heat,115.0
+2023-12-13,7:30p,Atlanta Hawks,128.0,Toronto Raptors,135.0
+2023-12-13,8:00p,Memphis Grizzlies,104.0,Houston Rockets,117.0
+2023-12-13,8:00p,Indiana Pacers,126.0,Milwaukee Bucks,140.0
+2023-12-13,8:00p,Los Angeles Lakers,122.0,San Antonio Spurs,119.0
+2023-12-13,9:00p,Brooklyn Nets,116.0,Phoenix Suns,112.0
+2023-12-13,9:00p,New York Knicks,113.0,Utah Jazz,117.0
+2023-12-14,7:30p,Cleveland Cavaliers,107.0,Boston Celtics,116.0
+2023-12-14,7:30p,Chicago Bulls,124.0,Miami Heat,116.0
+2023-12-14,8:30p,Minnesota Timberwolves,119.0,Dallas Mavericks,101.0
+2023-12-14,9:00p,Brooklyn Nets,101.0,Denver Nuggets,124.0
+2023-12-14,10:00p,Utah Jazz,122.0,Portland Trail Blazers,114.0
+2023-12-14,10:00p,Oklahoma City Thunder,123.0,Sacramento Kings,128.0
+2023-12-14,10:30p,Golden State Warriors,113.0,Los Angeles Clippers,121.0
+2023-12-15,7:00p,New Orleans Pelicans,112.0,Charlotte Hornets,107.0
+2023-12-15,7:00p,Detroit Pistons,92.0,Philadelphia 76ers,124.0
+2023-12-15,7:00p,Indiana Pacers,123.0,Washington Wizards,137.0
+2023-12-15,7:30p,Orlando Magic,111.0,Boston Celtics,128.0
+2023-12-15,7:30p,Los Angeles Lakers,115.0,San Antonio Spurs,129.0
+2023-12-15,7:30p,Atlanta Hawks,125.0,Toronto Raptors,104.0
+2023-12-15,8:00p,Houston Rockets,103.0,Memphis Grizzlies,96.0
+2023-12-15,10:00p,New York Knicks,139.0,Phoenix Suns,122.0
+2023-12-16,6:00p,Detroit Pistons,114.0,Milwaukee Bucks,146.0
+2023-12-16,7:00p,Philadelphia 76ers,135.0,Charlotte Hornets,82.0
+2023-12-16,7:30p,Atlanta Hawks,119.0,Cleveland Cavaliers,127.0
+2023-12-16,8:00p,Chicago Bulls,116.0,Miami Heat,118.0
+2023-12-16,8:00p,Indiana Pacers,109.0,Minnesota Timberwolves,127.0
+2023-12-16,8:30p,Brooklyn Nets,120.0,Golden State Warriors,124.0
+2023-12-16,9:00p,Oklahoma City Thunder,118.0,Denver Nuggets,117.0
+2023-12-16,9:00p,Dallas Mavericks,131.0,Portland Trail Blazers,120.0
+2023-12-16,10:00p,Utah Jazz,104.0,Sacramento Kings,125.0
+2023-12-16,10:30p,New York Knicks,122.0,Los Angeles Clippers,144.0
+2023-12-17,3:00p,Orlando Magic,97.0,Boston Celtics,114.0
+2023-12-17,3:30p,New Orleans Pelicans,146.0,San Antonio Spurs,110.0
+2023-12-17,7:00p,Houston Rockets,119.0,Milwaukee Bucks,128.0
+2023-12-17,8:00p,Washington Wizards,108.0,Phoenix Suns,112.0
+2023-12-17,9:00p,Golden State Warriors,118.0,Portland Trail Blazers,114.0
+2023-12-18,7:00p,Houston Rockets,130.0,Cleveland Cavaliers,135.0
+2023-12-18,7:00p,Los Angeles Clippers,151.0,Indiana Pacers,127.0
+2023-12-18,7:00p,Chicago Bulls,108.0,Philadelphia 76ers,104.0
+2023-12-18,7:30p,Detroit Pistons,124.0,Atlanta Hawks,130.0
+2023-12-18,7:30p,Minnesota Timberwolves,112.0,Miami Heat,108.0
+2023-12-18,7:30p,Charlotte Hornets,99.0,Toronto Raptors,114.0
+2023-12-18,8:00p,Memphis Grizzlies,97.0,Oklahoma City Thunder,116.0
+2023-12-18,9:00p,Dallas Mavericks,104.0,Denver Nuggets,130.0
+2023-12-18,9:00p,Brooklyn Nets,108.0,Utah Jazz,125.0
+2023-12-18,10:00p,Washington Wizards,131.0,Sacramento Kings,143.0
+2023-12-18,10:30p,New York Knicks,114.0,Los Angeles Lakers,109.0
+2023-12-19,7:30p,Memphis Grizzlies,115.0,New Orleans Pelicans,113.0
+2023-12-19,8:00p,San Antonio Spurs,119.0,Milwaukee Bucks,132.0
+2023-12-19,10:00p,Boston Celtics,126.0,Golden State Warriors,132.0
+2023-12-19,10:00p,Phoenix Suns,104.0,Portland Trail Blazers,109.0
+2023-12-20,7:00p,Utah Jazz,116.0,Cleveland Cavaliers,124.0
+2023-12-20,7:00p,Charlotte Hornets,113.0,Indiana Pacers,144.0
+2023-12-20,7:00p,Miami Heat,115.0,Orlando Magic,106.0
+2023-12-20,7:00p,Minnesota Timberwolves,113.0,Philadelphia 76ers,127.0
+2023-12-20,7:30p,New York Knicks,121.0,Brooklyn Nets,102.0
+2023-12-20,7:30p,Denver Nuggets,113.0,Toronto Raptors,104.0
+2023-12-20,8:00p,Los Angeles Lakers,108.0,Chicago Bulls,124.0
+2023-12-20,8:00p,Atlanta Hawks,134.0,Houston Rockets,127.0
+2023-12-20,8:30p,Los Angeles Clippers,120.0,Dallas Mavericks,111.0
+2023-12-20,10:00p,Boston Celtics,144.0,Sacramento Kings,119.0
+2023-12-21,7:00p,Utah Jazz,119.0,Detroit Pistons,111.0
+2023-12-21,7:30p,New Orleans Pelicans,123.0,Cleveland Cavaliers,104.0
+2023-12-21,8:00p,San Antonio Spurs,95.0,Chicago Bulls,114.0
+2023-12-21,8:00p,Indiana Pacers,103.0,Memphis Grizzlies,116.0
+2023-12-21,8:00p,Orlando Magic,114.0,Milwaukee Bucks,118.0
+2023-12-21,8:00p,Los Angeles Clippers,115.0,Oklahoma City Thunder,134.0
+2023-12-21,9:00p,Los Angeles Lakers,111.0,Minnesota Timberwolves,118.0
+2023-12-21,10:00p,Washington Wizards,118.0,Portland Trail Blazers,117.0
+2023-12-22,7:00p,Toronto Raptors,111.0,Philadelphia 76ers,121.0
+2023-12-22,7:30p,Denver Nuggets,122.0,Brooklyn Nets,117.0
+2023-12-22,8:00p,Dallas Mavericks,96.0,Houston Rockets,122.0
+2023-12-22,8:00p,Atlanta Hawks,113.0,Miami Heat,122.0
+2023-12-22,10:00p,Washington Wizards,118.0,Golden State Warriors,129.0
+2023-12-22,10:00p,Phoenix Suns,105.0,Sacramento Kings,120.0
+2023-12-23,12:30p,Milwaukee Bucks,130.0,New York Knicks,111.0
+2023-12-23,3:30p,Boston Celtics,145.0,Los Angeles Clippers,108.0
+2023-12-23,7:00p,Denver Nuggets,102.0,Charlotte Hornets,95.0
+2023-12-23,7:00p,Orlando Magic,117.0,Indiana Pacers,110.0
+2023-12-23,7:00p,Houston Rockets,106.0,New Orleans Pelicans,104.0
+2023-12-23,7:30p,Memphis Grizzlies,125.0,Atlanta Hawks,119.0
+2023-12-23,7:30p,Detroit Pistons,115.0,Brooklyn Nets,126.0
+2023-12-23,7:30p,Utah Jazz,126.0,Toronto Raptors,119.0
+2023-12-23,8:00p,Cleveland Cavaliers,109.0,Chicago Bulls,95.0
+2023-12-23,8:00p,Los Angeles Lakers,129.0,Oklahoma City Thunder,120.0
+2023-12-23,8:30p,San Antonio Spurs,119.0,Dallas Mavericks,144.0
+2023-12-23,8:30p,Portland Trail Blazers,106.0,Golden State Warriors,126.0
+2023-12-23,10:00p,Minnesota Timberwolves,110.0,Sacramento Kings,98.0
+2023-12-25,12:00p,Milwaukee Bucks,122.0,New York Knicks,129.0
+2023-12-25,2:30p,Golden State Warriors,114.0,Denver Nuggets,120.0
+2023-12-25,5:00p,Boston Celtics,126.0,Los Angeles Lakers,115.0
+2023-12-25,8:00p,Philadelphia 76ers,113.0,Miami Heat,119.0
+2023-12-25,10:30p,Dallas Mavericks,128.0,Phoenix Suns,114.0
+2023-12-26,7:00p,Brooklyn Nets,118.0,Detroit Pistons,112.0
+2023-12-26,7:00p,Orlando Magic,127.0,Washington Wizards,119.0
+2023-12-26,8:00p,Atlanta Hawks,113.0,Chicago Bulls,118.0
+2023-12-26,8:00p,Indiana Pacers,123.0,Houston Rockets,117.0
+2023-12-26,8:00p,Memphis Grizzlies,116.0,New Orleans Pelicans,115.0
+2023-12-26,8:00p,Minnesota Timberwolves,106.0,Oklahoma City Thunder,129.0
+2023-12-26,8:00p,Utah Jazz,130.0,San Antonio Spurs,118.0
+2023-12-26,10:00p,Sacramento Kings,113.0,Portland Trail Blazers,130.0
+2023-12-26,10:30p,Charlotte Hornets,104.0,Los Angeles Clippers,113.0
+2023-12-27,7:00p,Philadelphia 76ers,112.0,Orlando Magic,92.0
+2023-12-27,7:00p,Toronto Raptors,132.0,Washington Wizards,102.0
+2023-12-27,7:30p,Milwaukee Bucks,144.0,Brooklyn Nets,122.0
+2023-12-27,8:00p,Phoenix Suns,129.0,Houston Rockets,113.0
+2023-12-27,8:00p,New York Knicks,120.0,Oklahoma City Thunder,129.0
+2023-12-27,8:30p,Cleveland Cavaliers,113.0,Dallas Mavericks,110.0
+2023-12-28,7:30p,Detroit Pistons,122.0,Boston Celtics,128.0
+2023-12-28,8:00p,Indiana Pacers,120.0,Chicago Bulls,104.0
+2023-12-28,8:00p,Dallas Mavericks,110.0,Minnesota Timberwolves,118.0
+2023-12-28,8:00p,Utah Jazz,105.0,New Orleans Pelicans,112.0
+2023-12-28,9:00p,Memphis Grizzlies,105.0,Denver Nuggets,142.0
+2023-12-28,10:00p,Miami Heat,114.0,Golden State Warriors,102.0
+2023-12-28,10:00p,San Antonio Spurs,118.0,Portland Trail Blazers,105.0
+2023-12-28,10:30p,Charlotte Hornets,112.0,Los Angeles Lakers,133.0
+2023-12-29,7:00p,New York Knicks,108.0,Orlando Magic,117.0
+2023-12-29,7:00p,Brooklyn Nets,104.0,Washington Wizards,110.0
+2023-12-29,7:30p,Sacramento Kings,117.0,Atlanta Hawks,110.0
+2023-12-29,7:30p,Toronto Raptors,118.0,Boston Celtics,120.0
+2023-12-29,7:30p,Milwaukee Bucks,119.0,Cleveland Cavaliers,111.0
+2023-12-29,8:00p,Philadelphia 76ers,131.0,Houston Rockets,127.0
+2023-12-29,9:00p,Oklahoma City Thunder,119.0,Denver Nuggets,93.0
+2023-12-29,9:00p,Charlotte Hornets,119.0,Phoenix Suns,133.0
+2023-12-29,10:00p,San Antonio Spurs,128.0,Portland Trail Blazers,134.0
+2023-12-29,10:30p,Memphis Grizzlies,106.0,Los Angeles Clippers,117.0
+2023-12-30,5:00p,Miami Heat,109.0,Utah Jazz,117.0
+2023-12-30,6:00p,Toronto Raptors,127.0,Detroit Pistons,129.0
+2023-12-30,7:00p,New York Knicks,126.0,Indiana Pacers,140.0
+2023-12-30,8:00p,Philadelphia 76ers,92.0,Chicago Bulls,105.0
+2023-12-30,8:00p,Los Angeles Lakers,106.0,Minnesota Timberwolves,108.0
+2023-12-30,8:30p,Dallas Mavericks,132.0,Golden State Warriors,122.0
+2023-12-31,3:00p,Atlanta Hawks,130.0,Washington Wizards,126.0
+2023-12-31,7:00p,Los Angeles Lakers,109.0,New Orleans Pelicans,129.0
+2023-12-31,7:00p,Brooklyn Nets,108.0,Oklahoma City Thunder,124.0
+2023-12-31,7:00p,Boston Celtics,134.0,San Antonio Spurs,101.0
+2023-12-31,8:00p,Sacramento Kings,123.0,Memphis Grizzlies,92.0
+2023-12-31,8:00p,Orlando Magic,107.0,Phoenix Suns,112.0
+2024-01-01,3:00p,Minnesota Timberwolves,106.0,New York Knicks,112.0
+2024-01-01,7:30p,Cleveland Cavaliers,121.0,Toronto Raptors,124.0
+2024-01-01,8:00p,Detroit Pistons,113.0,Houston Rockets,136.0
+2024-01-01,8:00p,Indiana Pacers,122.0,Milwaukee Bucks,113.0
+2024-01-01,9:00p,Charlotte Hornets,93.0,Denver Nuggets,111.0
+2024-01-01,9:00p,Portland Trail Blazers,88.0,Phoenix Suns,109.0
+2024-01-01,9:00p,Dallas Mavericks,90.0,Utah Jazz,127.0
+2024-01-01,10:30p,Miami Heat,104.0,Los Angeles Clippers,121.0
+2024-01-02,7:00p,Chicago Bulls,97.0,Philadelphia 76ers,110.0
+2024-01-02,8:00p,San Antonio Spurs,98.0,Memphis Grizzlies,106.0
+2024-01-02,8:00p,Brooklyn Nets,85.0,New Orleans Pelicans,112.0
+2024-01-02,8:00p,Boston Celtics,123.0,Oklahoma City Thunder,127.0
+2024-01-02,10:00p,Orlando Magic,115.0,Golden State Warriors,121.0
+2024-01-02,10:00p,Charlotte Hornets,111.0,Sacramento Kings,104.0
+2024-01-03,7:00p,Washington Wizards,101.0,Cleveland Cavaliers,140.0
+2024-01-03,7:00p,Milwaukee Bucks,130.0,Indiana Pacers,142.0
+2024-01-03,7:30p,Oklahoma City Thunder,138.0,Atlanta Hawks,141.0
+2024-01-03,8:00p,Brooklyn Nets,101.0,Houston Rockets,112.0
+2024-01-03,8:00p,Toronto Raptors,116.0,Memphis Grizzlies,111.0
+2024-01-03,8:00p,New Orleans Pelicans,117.0,Minnesota Timberwolves,106.0
+2024-01-03,8:30p,Portland Trail Blazers,97.0,Dallas Mavericks,126.0
+2024-01-03,8:30p,Chicago Bulls,100.0,New York Knicks,116.0
+2024-01-03,9:00p,Los Angeles Clippers,131.0,Phoenix Suns,122.0
+2024-01-03,9:00p,Detroit Pistons,148.0,Utah Jazz,154.0
+2024-01-03,10:00p,Miami Heat,110.0,Los Angeles Lakers,96.0
+2024-01-03,10:00p,Orlando Magic,135.0,Sacramento Kings,138.0
+2024-01-04,7:30p,Milwaukee Bucks,125.0,San Antonio Spurs,121.0
+2024-01-04,10:00p,Denver Nuggets,130.0,Golden State Warriors,127.0
+2024-01-05,7:00p,Utah Jazz,97.0,Boston Celtics,126.0
+2024-01-05,7:00p,Atlanta Hawks,116.0,Indiana Pacers,150.0
+2024-01-05,7:30p,Oklahoma City Thunder,115.0,Brooklyn Nets,124.0
+2024-01-05,7:30p,Washington Wizards,90.0,Cleveland Cavaliers,114.0
+2024-01-05,7:30p,New York Knicks,128.0,Philadelphia 76ers,92.0
+2024-01-05,8:00p,Charlotte Hornets,91.0,Chicago Bulls,104.0
+2024-01-05,8:00p,Minnesota Timberwolves,122.0,Houston Rockets,95.0
+2024-01-05,8:00p,Los Angeles Clippers,111.0,New Orleans Pelicans,95.0
+2024-01-05,8:30p,Portland Trail Blazers,103.0,Dallas Mavericks,139.0
+2024-01-05,9:00p,Orlando Magic,122.0,Denver Nuggets,120.0
+2024-01-05,9:00p,Miami Heat,97.0,Phoenix Suns,113.0
+2024-01-05,10:00p,Detroit Pistons,109.0,Golden State Warriors,113.0
+2024-01-05,10:00p,Memphis Grizzlies,127.0,Los Angeles Lakers,113.0
+2024-01-05,10:00p,Toronto Raptors,130.0,Sacramento Kings,135.0
+2024-01-06,7:00p,Boston Celtics,118.0,Indiana Pacers,101.0
+2024-01-06,7:00p,New York Knicks,121.0,Washington Wizards,105.0
+2024-01-06,7:30p,Utah Jazz,120.0,Philadelphia 76ers,109.0
+2024-01-06,8:00p,Milwaukee Bucks,108.0,Houston Rockets,112.0
+2024-01-07,1:00p,San Antonio Spurs,115.0,Cleveland Cavaliers,117.0
+2024-01-07,3:00p,Portland Trail Blazers,134.0,Brooklyn Nets,127.0
+2024-01-07,6:00p,Atlanta Hawks,110.0,Orlando Magic,117.0
+2024-01-07,6:00p,New Orleans Pelicans,133.0,Sacramento Kings,100.0
+2024-01-07,7:30p,Minnesota Timberwolves,108.0,Dallas Mavericks,115.0
+2024-01-07,8:00p,Detroit Pistons,114.0,Denver Nuggets,131.0
+2024-01-07,8:00p,Memphis Grizzlies,121.0,Phoenix Suns,115.0
+2024-01-07,8:30p,Toronto Raptors,133.0,Golden State Warriors,118.0
+2024-01-07,9:30p,Los Angeles Clippers,103.0,Los Angeles Lakers,106.0
+2024-01-08,7:00p,Chicago Bulls,119.0,Charlotte Hornets,112.0
+2024-01-08,7:00p,Boston Celtics,131.0,Indiana Pacers,133.0
+2024-01-08,7:00p,Oklahoma City Thunder,136.0,Washington Wizards,128.0
+2024-01-08,7:30p,Houston Rockets,113.0,Miami Heat,120.0
+2024-01-08,8:00p,Utah Jazz,132.0,Milwaukee Bucks,116.0
+2024-01-08,10:30p,Phoenix Suns,111.0,Los Angeles Clippers,138.0
+2024-01-09,7:00p,Sacramento Kings,131.0,Detroit Pistons,110.0
+2024-01-09,7:00p,Minnesota Timberwolves,113.0,Orlando Magic,92.0
+2024-01-09,7:30p,Portland Trail Blazers,84.0,New York Knicks,112.0
+2024-01-09,8:30p,Memphis Grizzlies,120.0,Dallas Mavericks,103.0
+2024-01-09,10:30p,Toronto Raptors,131.0,Los Angeles Lakers,132.0
+2024-01-10,7:00p,Minnesota Timberwolves,120.0,Boston Celtics,127.0
+2024-01-10,7:00p,Sacramento Kings,123.0,Charlotte Hornets,98.0
+2024-01-10,7:00p,San Antonio Spurs,130.0,Detroit Pistons,108.0
+2024-01-10,7:00p,Washington Wizards,104.0,Indiana Pacers,112.0
+2024-01-10,7:30p,Philadelphia 76ers,132.0,Atlanta Hawks,139.0
+2024-01-10,7:30p,Oklahoma City Thunder,128.0,Miami Heat,120.0
+2024-01-10,8:00p,Houston Rockets,119.0,Chicago Bulls,124.0
+2024-01-10,8:30p,New Orleans Pelicans,141.0,Golden State Warriors,105.0
+2024-01-10,10:00p,Denver Nuggets,111.0,Utah Jazz,124.0
+2024-01-10,10:30p,Toronto Raptors,120.0,Los Angeles Clippers,126.0
+2024-01-11,2:00p,Brooklyn Nets,102.0,Cleveland Cavaliers,111.0
+2024-01-11,7:30p,Boston Celtics,102.0,Milwaukee Bucks,135.0
+2024-01-11,8:00p,Portland Trail Blazers,77.0,Oklahoma City Thunder,139.0
+2024-01-11,8:30p,New York Knicks,124.0,Dallas Mavericks,128.0
+2024-01-11,10:00p,Phoenix Suns,127.0,Los Angeles Lakers,109.0
+2024-01-12,7:30p,Indiana Pacers,126.0,Atlanta Hawks,108.0
+2024-01-12,7:30p,Houston Rockets,112.0,Detroit Pistons,110.0
+2024-01-12,7:30p,Sacramento Kings,93.0,Philadelphia 76ers,112.0
+2024-01-12,8:00p,Golden State Warriors,140.0,Chicago Bulls,131.0
+2024-01-12,8:00p,Los Angeles Clippers,128.0,Memphis Grizzlies,119.0
+2024-01-12,8:00p,Orlando Magic,96.0,Miami Heat,99.0
+2024-01-12,8:00p,Portland Trail Blazers,93.0,Minnesota Timberwolves,116.0
+2024-01-12,8:00p,Charlotte Hornets,99.0,San Antonio Spurs,135.0
+2024-01-12,9:30p,Toronto Raptors,113.0,Utah Jazz,145.0
+2024-01-12,10:00p,New Orleans Pelicans,113.0,Denver Nuggets,125.0
+2024-01-13,7:00p,Houston Rockets,113.0,Boston Celtics,145.0
+2024-01-13,7:30p,Washington Wizards,127.0,Atlanta Hawks,99.0
+2024-01-13,8:00p,New York Knicks,106.0,Memphis Grizzlies,94.0
+2024-01-13,8:00p,Golden State Warriors,118.0,Milwaukee Bucks,129.0
+2024-01-13,8:00p,Orlando Magic,100.0,Oklahoma City Thunder,112.0
+2024-01-13,8:30p,New Orleans Pelicans,118.0,Dallas Mavericks,108.0
+2024-01-13,8:30p,Chicago Bulls,122.0,San Antonio Spurs,116.0
+2024-01-13,9:30p,Los Angeles Lakers,125.0,Utah Jazz,132.0
+2024-01-14,3:30p,Indiana Pacers,109.0,Denver Nuggets,117.0
+2024-01-14,6:00p,Charlotte Hornets,87.0,Miami Heat,104.0
+2024-01-14,7:00p,Sacramento Kings,142.0,Milwaukee Bucks,143.0
+2024-01-14,7:00p,Los Angeles Clippers,105.0,Minnesota Timberwolves,109.0
+2024-01-14,9:00p,Phoenix Suns,127.0,Portland Trail Blazers,116.0
+2024-01-15,1:00p,Houston Rockets,115.0,Philadelphia 76ers,124.0
+2024-01-15,2:30p,New Orleans Pelicans,120.0,Dallas Mavericks,125.0
+2024-01-15,3:00p,Orlando Magic,98.0,New York Knicks,94.0
+2024-01-15,3:00p,Detroit Pistons,129.0,Washington Wizards,117.0
+2024-01-15,3:30p,San Antonio Spurs,99.0,Atlanta Hawks,109.0
+2024-01-15,6:00p,Golden State Warriors,107.0,Memphis Grizzlies,116.0
+2024-01-15,7:00p,Chicago Bulls,91.0,Cleveland Cavaliers,109.0
+2024-01-15,7:30p,Miami Heat,96.0,Brooklyn Nets,95.0
+2024-01-15,7:30p,Boston Celtics,105.0,Toronto Raptors,96.0
+2024-01-15,9:00p,Indiana Pacers,105.0,Utah Jazz,132.0
+2024-01-15,10:30p,Oklahoma City Thunder,105.0,Los Angeles Lakers,112.0
+2024-01-16,7:30p,Denver Nuggets,121.0,Philadelphia 76ers,126.0
+2024-01-16,9:00p,Sacramento Kings,117.0,Phoenix Suns,119.0
+2024-01-16,10:00p,Oklahoma City Thunder,117.0,Los Angeles Clippers,128.0
+2024-01-17,7:00p,Minnesota Timberwolves,124.0,Detroit Pistons,117.0
+2024-01-17,7:30p,Orlando Magic,104.0,Atlanta Hawks,106.0
+2024-01-17,7:30p,San Antonio Spurs,98.0,Boston Celtics,117.0
+2024-01-17,7:30p,Milwaukee Bucks,95.0,Cleveland Cavaliers,135.0
+2024-01-17,7:30p,Houston Rockets,94.0,New York Knicks,109.0
+2024-01-17,7:30p,Miami Heat,97.0,Toronto Raptors,121.0
+2024-01-17,8:00p,Charlotte Hornets,112.0,New Orleans Pelicans,132.0
+2024-01-17,8:30p,Dallas Mavericks,110.0,Los Angeles Lakers,127.0
+2024-01-17,10:00p,Brooklyn Nets,103.0,Portland Trail Blazers,105.0
+2024-01-18,7:30p,Washington Wizards,109.0,New York Knicks,113.0
+2024-01-18,7:30p,Chicago Bulls,116.0,Toronto Raptors,110.0
+2024-01-18,9:00p,Oklahoma City Thunder,134.0,Utah Jazz,129.0
+2024-01-18,10:00p,Memphis Grizzlies,103.0,Minnesota Timberwolves,118.0
+2024-01-18,10:00p,Indiana Pacers,126.0,Sacramento Kings,121.0
+2024-01-19,7:00p,San Antonio Spurs,120.0,Charlotte Hornets,124.0
+2024-01-19,7:00p,Philadelphia 76ers,124.0,Orlando Magic,109.0
+2024-01-19,7:30p,Denver Nuggets,102.0,Boston Celtics,100.0
+2024-01-19,8:00p,Atlanta Hawks,109.0,Miami Heat,108.0
+2024-01-19,8:00p,Phoenix Suns,123.0,New Orleans Pelicans,109.0
+2024-01-19,10:00p,Indiana Pacers,115.0,Portland Trail Blazers,118.0
+2024-01-19,10:30p,Brooklyn Nets,130.0,Los Angeles Lakers,112.0
+2024-01-20,3:00p,Milwaukee Bucks,141.0,Detroit Pistons,135.0
+2024-01-20,7:00p,Philadelphia 76ers,97.0,Charlotte Hornets,89.0
+2024-01-20,7:00p,San Antonio Spurs,131.0,Washington Wizards,127.0
+2024-01-20,7:30p,Cleveland Cavaliers,116.0,Atlanta Hawks,95.0
+2024-01-20,7:30p,Toronto Raptors,100.0,New York Knicks,126.0
+2024-01-20,8:00p,Memphis Grizzlies,96.0,Chicago Bulls,125.0
+2024-01-20,8:00p,Utah Jazz,126.0,Houston Rockets,127.0
+2024-01-20,8:00p,Oklahoma City Thunder,102.0,Minnesota Timberwolves,97.0
+2024-01-21,3:30p,Brooklyn Nets,114.0,Los Angeles Clippers,125.0
+2024-01-21,6:00p,Miami Heat,87.0,Orlando Magic,105.0
+2024-01-21,6:00p,Denver Nuggets,113.0,Washington Wizards,104.0
+2024-01-21,7:00p,Boston Celtics,116.0,Houston Rockets,107.0
+2024-01-21,8:00p,Indiana Pacers,110.0,Phoenix Suns,117.0
+2024-01-21,10:00p,Portland Trail Blazers,110.0,Los Angeles Lakers,134.0
+2024-01-22,7:00p,Milwaukee Bucks,122.0,Detroit Pistons,113.0
+2024-01-22,7:00p,Cleveland Cavaliers,126.0,Orlando Magic,99.0
+2024-01-22,7:00p,San Antonio Spurs,123.0,Philadelphia 76ers,133.0
+2024-01-22,7:30p,Memphis Grizzlies,108.0,Toronto Raptors,100.0
+2024-01-22,8:00p,Charlotte Hornets,128.0,Minnesota Timberwolves,125.0
+2024-01-22,8:30p,Boston Celtics,119.0,Dallas Mavericks,110.0
+2024-01-22,9:00p,Chicago Bulls,113.0,Phoenix Suns,115.0
+2024-01-22,10:00p,Atlanta Hawks,107.0,Sacramento Kings,122.0
+2024-01-23,7:00p,Denver Nuggets,114.0,Indiana Pacers,109.0
+2024-01-23,7:30p,New York Knicks,108.0,Brooklyn Nets,103.0
+2024-01-23,8:00p,Utah Jazz,124.0,New Orleans Pelicans,153.0
+2024-01-23,8:00p,Portland Trail Blazers,109.0,Oklahoma City Thunder,111.0
+2024-01-23,10:00p,Los Angeles Lakers,116.0,Los Angeles Clippers,127.0
+2024-01-24,7:00p,Charlotte Hornets,106.0,Detroit Pistons,113.0
+2024-01-24,7:00p,Minnesota Timberwolves,118.0,Washington Wizards,107.0
+2024-01-24,7:30p,Memphis Grizzlies,105.0,Miami Heat,96.0
+2024-01-24,8:00p,Portland Trail Blazers,137.0,Houston Rockets,131.0
+2024-01-24,8:00p,Cleveland Cavaliers,116.0,Milwaukee Bucks,126.0
+2024-01-24,8:30p,Phoenix Suns,132.0,Dallas Mavericks,109.0
+2024-01-24,9:30p,Oklahoma City Thunder,140.0,San Antonio Spurs,114.0
+2024-01-24,10:00p,Atlanta Hawks,112.0,Golden State Warriors,134.0
+2024-01-25,7:00p,Philadelphia 76ers,122.0,Indiana Pacers,134.0
+2024-01-25,7:00p,Utah Jazz,123.0,Washington Wizards,108.0
+2024-01-25,7:30p,Minnesota Timberwolves,96.0,Brooklyn Nets,94.0
+2024-01-25,7:30p,Boston Celtics,143.0,Miami Heat,110.0
+2024-01-25,7:30p,Denver Nuggets,84.0,New York Knicks,122.0
+2024-01-25,10:00p,Sacramento Kings,134.0,Golden State Warriors,133.0
+2024-01-25,10:30p,Chicago Bulls,132.0,Los Angeles Lakers,141.0
+2024-01-26,7:00p,Dallas Mavericks,148.0,Atlanta Hawks,143.0
+2024-01-26,7:00p,Houston Rockets,138.0,Charlotte Hornets,104.0
+2024-01-26,7:00p,Phoenix Suns,131.0,Indiana Pacers,133.0
+2024-01-26,7:30p,Los Angeles Clippers,127.0,Toronto Raptors,107.0
+2024-01-26,8:00p,Orlando Magic,106.0,Memphis Grizzlies,107.0
+2024-01-26,8:00p,Cleveland Cavaliers,112.0,Milwaukee Bucks,100.0
+2024-01-26,8:00p,Oklahoma City Thunder,107.0,New Orleans Pelicans,83.0
+2024-01-26,9:30p,Portland Trail Blazers,100.0,San Antonio Spurs,116.0
+2024-01-27,12:00p,Washington Wizards,118.0,Detroit Pistons,104.0
+2024-01-27,3:00p,Miami Heat,109.0,New York Knicks,125.0
+2024-01-27,5:30p,Philadelphia 76ers,105.0,Denver Nuggets,111.0
+2024-01-27,6:00p,Houston Rockets,104.0,Brooklyn Nets,106.0
+2024-01-27,7:00p,Los Angeles Clippers,115.0,Boston Celtics,96.0
+2024-01-27,7:00p,Utah Jazz,134.0,Charlotte Hornets,122.0
+2024-01-27,8:00p,New Orleans Pelicans,117.0,Milwaukee Bucks,141.0
+2024-01-27,8:30p,Los Angeles Lakers,145.0,Golden State Warriors,144.0
+2024-01-27,8:30p,Minnesota Timberwolves,112.0,San Antonio Spurs,113.0
+2024-01-27,9:00p,Sacramento Kings,120.0,Dallas Mavericks,115.0
+2024-01-28,2:00p,Oklahoma City Thunder,104.0,Detroit Pistons,120.0
+2024-01-28,3:30p,Memphis Grizzlies,110.0,Indiana Pacers,116.0
+2024-01-28,6:00p,Toronto Raptors,125.0,Atlanta Hawks,126.0
+2024-01-28,6:00p,Phoenix Suns,98.0,Orlando Magic,113.0
+2024-01-28,9:00p,Chicago Bulls,104.0,Portland Trail Blazers,96.0
+2024-01-29,7:00p,New York Knicks,,Charlotte Hornets,
+2024-01-29,7:00p,Los Angeles Clippers,,Cleveland Cavaliers,
+2024-01-29,7:30p,New Orleans Pelicans,,Boston Celtics,
+2024-01-29,7:30p,Utah Jazz,,Brooklyn Nets,
+2024-01-29,7:30p,Phoenix Suns,,Miami Heat,
+2024-01-29,8:00p,Los Angeles Lakers,,Houston Rockets,
+2024-01-29,8:00p,Sacramento Kings,,Memphis Grizzlies,
+2024-01-29,8:00p,Minnesota Timberwolves,,Oklahoma City Thunder,
+2024-01-29,8:00p,Washington Wizards,,San Antonio Spurs,
+2024-01-29,8:30p,Orlando Magic,,Dallas Mavericks,
+2024-01-29,9:00p,Milwaukee Bucks,,Denver Nuggets,
+2024-01-29,10:00p,Philadelphia 76ers,,Portland Trail Blazers,
+2024-01-30,7:30p,Los Angeles Lakers,,Atlanta Hawks,
+2024-01-30,7:30p,Indiana Pacers,,Boston Celtics,
+2024-01-30,7:30p,Utah Jazz,,New York Knicks,
+2024-01-30,8:00p,Toronto Raptors,,Chicago Bulls,
+2024-01-30,10:00p,Philadelphia 76ers,,Golden State Warriors,
+2024-01-31,7:00p,Chicago Bulls,,Charlotte Hornets,
+2024-01-31,7:00p,Detroit Pistons,,Cleveland Cavaliers,
+2024-01-31,7:00p,Los Angeles Clippers,,Washington Wizards,
+2024-01-31,7:30p,Sacramento Kings,,Miami Heat,
+2024-01-31,8:00p,New Orleans Pelicans,,Houston Rockets,
+2024-01-31,8:00p,Dallas Mavericks,,Minnesota Timberwolves,
+2024-01-31,8:00p,Denver Nuggets,,Oklahoma City Thunder,
+2024-01-31,8:00p,Orlando Magic,,San Antonio Spurs,
+2024-01-31,8:30p,Phoenix Suns,,Brooklyn Nets,
+2024-01-31,10:00p,Milwaukee Bucks,,Portland Trail Blazers,
+2024-02-01,7:30p,Los Angeles Lakers,,Boston Celtics,
+2024-02-01,7:30p,Indiana Pacers,,New York Knicks,
+2024-02-01,8:00p,Cleveland Cavaliers,,Memphis Grizzlies,
+2024-02-01,10:00p,Philadelphia 76ers,,Utah Jazz,
+2024-02-02,7:00p,Los Angeles Clippers,,Detroit Pistons,
+2024-02-02,7:00p,Miami Heat,,Washington Wizards,
+2024-02-02,7:30p,Phoenix Suns,,Atlanta Hawks,
+2024-02-02,7:30p,Sacramento Kings,,Indiana Pacers,
+2024-02-02,8:00p,Toronto Raptors,,Houston Rockets,
+2024-02-02,8:00p,Golden State Warriors,,Memphis Grizzlies,
+2024-02-02,8:00p,Orlando Magic,,Minnesota Timberwolves,
+2024-02-02,8:00p,Charlotte Hornets,,Oklahoma City Thunder,
+2024-02-02,8:00p,New Orleans Pelicans,,San Antonio Spurs,
+2024-02-02,9:00p,Portland Trail Blazers,,Denver Nuggets,
+2024-02-03,6:00p,Brooklyn Nets,,Philadelphia 76ers,
+2024-02-03,7:30p,Golden State Warriors,,Atlanta Hawks,
+2024-02-03,8:00p,Sacramento Kings,,Chicago Bulls,
+2024-02-03,8:30p,Milwaukee Bucks,,Dallas Mavericks,
+2024-02-03,8:30p,Los Angeles Lakers,,New York Knicks,
+2024-02-03,8:30p,Cleveland Cavaliers,,San Antonio Spurs,
+2024-02-04,3:00p,Orlando Magic,,Detroit Pistons,
+2024-02-04,3:30p,Phoenix Suns,,Washington Wizards,
+2024-02-04,6:00p,Memphis Grizzlies,,Boston Celtics,
+2024-02-04,6:00p,Indiana Pacers,,Charlotte Hornets,
+2024-02-04,6:00p,Los Angeles Clippers,,Miami Heat,
+2024-02-04,7:00p,Houston Rockets,,Minnesota Timberwolves,
+2024-02-04,7:00p,Toronto Raptors,,Oklahoma City Thunder,
+2024-02-04,8:00p,Milwaukee Bucks,,Utah Jazz,
+2024-02-04,8:30p,Portland Trail Blazers,,Denver Nuggets,
+2024-02-05,7:00p,Los Angeles Lakers,,Charlotte Hornets,
+2024-02-05,7:00p,Sacramento Kings,,Cleveland Cavaliers,
+2024-02-05,7:00p,Dallas Mavericks,,Philadelphia 76ers,
+2024-02-05,7:30p,Los Angeles Clippers,,Atlanta Hawks,
+2024-02-05,7:30p,Golden State Warriors,,Brooklyn Nets,
+2024-02-05,8:00p,Toronto Raptors,,New Orleans Pelicans,
+2024-02-06,7:00p,Houston Rockets,,Indiana Pacers,
+2024-02-06,7:30p,Dallas Mavericks,,Brooklyn Nets,
+2024-02-06,7:30p,Orlando Magic,,Miami Heat,
+2024-02-06,7:30p,Memphis Grizzlies,,New York Knicks,
+2024-02-06,8:00p,Minnesota Timberwolves,,Chicago Bulls,
+2024-02-06,9:00p,Oklahoma City Thunder,,Utah Jazz,
+2024-02-06,10:00p,Milwaukee Bucks,,Phoenix Suns,
+2024-02-07,7:00p,Toronto Raptors,,Charlotte Hornets,
+2024-02-07,7:00p,Cleveland Cavaliers,,Washington Wizards,
+2024-02-07,7:30p,Atlanta Hawks,,Boston Celtics,
+2024-02-07,7:30p,San Antonio Spurs,,Miami Heat,
+2024-02-07,7:30p,Golden State Warriors,,Philadelphia 76ers,
+2024-02-07,10:00p,New Orleans Pelicans,,Los Angeles Clippers,
+2024-02-07,10:00p,Detroit Pistons,,Sacramento Kings,
+2024-02-08,7:00p,Golden State Warriors,,Indiana Pacers,
+2024-02-08,7:00p,San Antonio Spurs,,Orlando Magic,
+2024-02-08,7:30p,Cleveland Cavaliers,,Brooklyn Nets,
+2024-02-08,7:30p,Dallas Mavericks,,New York Knicks,
+2024-02-08,8:00p,Chicago Bulls,,Memphis Grizzlies,
+2024-02-08,8:00p,Minnesota Timberwolves,,Milwaukee Bucks,
+2024-02-08,9:00p,Utah Jazz,,Phoenix Suns,
+2024-02-08,10:00p,Denver Nuggets,,Los Angeles Lakers,
+2024-02-08,10:00p,Detroit Pistons,,Portland Trail Blazers,
+2024-02-09,7:00p,Atlanta Hawks,,Philadelphia 76ers,
+2024-02-09,7:30p,Washington Wizards,,Boston Celtics,
+2024-02-09,7:30p,Houston Rockets,,Toronto Raptors,
+2024-02-09,8:00p,Charlotte Hornets,,Milwaukee Bucks,
+2024-02-09,10:00p,Denver Nuggets,,Sacramento Kings,
+2024-02-09,10:30p,New Orleans Pelicans,,Los Angeles Lakers,
+2024-02-10,3:00p,Oklahoma City Thunder,,Dallas Mavericks,
+2024-02-10,3:30p,Detroit Pistons,,Los Angeles Clippers,
+2024-02-10,6:00p,San Antonio Spurs,,Brooklyn Nets,
+2024-02-10,7:00p,Memphis Grizzlies,,Charlotte Hornets,
+2024-02-10,7:00p,Chicago Bulls,,Orlando Magic,
+2024-02-10,7:00p,Philadelphia 76ers,,Washington Wizards,
+2024-02-10,7:30p,Houston Rockets,,Atlanta Hawks,
+2024-02-10,7:30p,Indiana Pacers,,New York Knicks,
+2024-02-10,7:30p,Cleveland Cavaliers,,Toronto Raptors,
+2024-02-10,8:30p,Phoenix Suns,,Golden State Warriors,
+2024-02-10,10:00p,New Orleans Pelicans,,Portland Trail Blazers,
+2024-02-11,2:00p,Boston Celtics,,Miami Heat,
+2024-02-11,3:00p,Sacramento Kings,,Oklahoma City Thunder,
+2024-02-12,7:00p,Indiana Pacers,,Charlotte Hornets,
+2024-02-12,7:00p,Philadelphia 76ers,,Cleveland Cavaliers,
+2024-02-12,7:30p,Chicago Bulls,,Atlanta Hawks,
+2024-02-12,7:30p,San Antonio Spurs,,Toronto Raptors,
+2024-02-12,8:00p,New York Knicks,,Houston Rockets,
+2024-02-12,8:00p,New Orleans Pelicans,,Memphis Grizzlies,
+2024-02-12,8:00p,Denver Nuggets,,Milwaukee Bucks,
+2024-02-12,8:30p,Washington Wizards,,Dallas Mavericks,
+2024-02-12,9:00p,Golden State Warriors,,Utah Jazz,
+2024-02-12,10:30p,Minnesota Timberwolves,,Los Angeles Clippers,
+2024-02-13,7:30p,Boston Celtics,,Brooklyn Nets,
+2024-02-13,7:30p,Oklahoma City Thunder,,Orlando Magic,
+2024-02-13,8:00p,Miami Heat,,Milwaukee Bucks,
+2024-02-13,10:00p,Sacramento Kings,,Phoenix Suns,
+2024-02-13,10:00p,Minnesota Timberwolves,,Portland Trail Blazers,
+2024-02-13,10:30p,Detroit Pistons,,Los Angeles Lakers,
+2024-02-14,7:00p,Atlanta Hawks,,Charlotte Hornets,
+2024-02-14,7:00p,New York Knicks,,Orlando Magic,
+2024-02-14,7:00p,Miami Heat,,Philadelphia 76ers,
+2024-02-14,7:30p,Brooklyn Nets,,Boston Celtics,
+2024-02-14,7:30p,Chicago Bulls,,Cleveland Cavaliers,
+2024-02-14,7:30p,Indiana Pacers,,Toronto Raptors,
+2024-02-14,8:00p,Houston Rockets,,Memphis Grizzlies,
+2024-02-14,8:00p,Washington Wizards,,New Orleans Pelicans,
+2024-02-14,8:30p,San Antonio Spurs,,Dallas Mavericks,
+2024-02-14,9:00p,Sacramento Kings,,Denver Nuggets,
+2024-02-14,9:00p,Detroit Pistons,,Phoenix Suns,
+2024-02-14,9:00p,Los Angeles Lakers,,Utah Jazz,
+2024-02-14,10:00p,Los Angeles Clippers,,Golden State Warriors,
+2024-02-15,8:30p,Milwaukee Bucks,,Memphis Grizzlies,
+2024-02-15,9:00p,Golden State Warriors,,Utah Jazz,
+2024-02-15,10:00p,Minnesota Timberwolves,,Portland Trail Blazers,
+2024-02-22,7:00p,Orlando Magic,,Cleveland Cavaliers,
+2024-02-22,7:00p,Detroit Pistons,,Indiana Pacers,
+2024-02-22,7:00p,New York Knicks,,Philadelphia 76ers,
+2024-02-22,7:00p,Brooklyn Nets,,Toronto Raptors,
+2024-02-22,7:30p,Phoenix Suns,,Dallas Mavericks,
+2024-02-22,8:00p,Boston Celtics,,Chicago Bulls,
+2024-02-22,8:00p,Houston Rockets,,New Orleans Pelicans,
+2024-02-22,8:00p,Los Angeles Clippers,,Oklahoma City Thunder,
+2024-02-22,9:00p,Washington Wizards,,Denver Nuggets,
+2024-02-22,9:00p,Charlotte Hornets,,Utah Jazz,
+2024-02-22,10:00p,Los Angeles Lakers,,Golden State Warriors,
+2024-02-22,10:00p,San Antonio Spurs,,Sacramento Kings,
+2024-02-23,7:30p,Toronto Raptors,,Atlanta Hawks,
+2024-02-23,7:30p,Cleveland Cavaliers,,Philadelphia 76ers,
+2024-02-23,8:00p,Phoenix Suns,,Houston Rockets,
+2024-02-23,8:00p,Los Angeles Clippers,,Memphis Grizzlies,
+2024-02-23,8:00p,Milwaukee Bucks,,Minnesota Timberwolves,
+2024-02-23,8:00p,Washington Wizards,,Oklahoma City Thunder,
+2024-02-23,10:00p,Charlotte Hornets,,Golden State Warriors,
+2024-02-23,10:00p,Miami Heat,,New Orleans Pelicans,
+2024-02-23,10:00p,Denver Nuggets,,Portland Trail Blazers,
+2024-02-23,10:30p,San Antonio Spurs,,Los Angeles Lakers,
+2024-02-24,8:00p,Orlando Magic,,Detroit Pistons,
+2024-02-24,8:00p,Brooklyn Nets,,Minnesota Timberwolves,
+2024-02-24,8:30p,Boston Celtics,,New York Knicks,
+2024-02-25,1:00p,Milwaukee Bucks,,Philadelphia 76ers,
+2024-02-25,3:30p,Los Angeles Lakers,,Phoenix Suns,
+2024-02-25,5:00p,Dallas Mavericks,,Indiana Pacers,
+2024-02-25,6:00p,Cleveland Cavaliers,,Washington Wizards,
+2024-02-25,7:00p,Orlando Magic,,Atlanta Hawks,
+2024-02-25,7:00p,Denver Nuggets,,Golden State Warriors,
+2024-02-25,7:00p,Oklahoma City Thunder,,Houston Rockets,
+2024-02-25,7:00p,Chicago Bulls,,New Orleans Pelicans,
+2024-02-25,8:00p,San Antonio Spurs,,Utah Jazz,
+2024-02-25,9:00p,Charlotte Hornets,,Portland Trail Blazers,
+2024-02-25,9:30p,Sacramento Kings,,Los Angeles Clippers,
+2024-02-26,7:00p,Toronto Raptors,,Indiana Pacers,
+2024-02-26,7:30p,Detroit Pistons,,New York Knicks,
+2024-02-26,8:00p,Brooklyn Nets,,Memphis Grizzlies,
+2024-02-26,10:00p,Miami Heat,,Sacramento Kings,
+2024-02-27,7:00p,Dallas Mavericks,,Cleveland Cavaliers,
+2024-02-27,7:00p,Brooklyn Nets,,Orlando Magic,
+2024-02-27,7:00p,Golden State Warriors,,Washington Wizards,
+2024-02-27,7:30p,Utah Jazz,,Atlanta Hawks,
+2024-02-27,7:30p,Philadelphia 76ers,,Boston Celtics,
+2024-02-27,7:30p,San Antonio Spurs,,Minnesota Timberwolves,
+2024-02-27,7:30p,New Orleans Pelicans,,New York Knicks,
+2024-02-27,8:00p,Detroit Pistons,,Chicago Bulls,
+2024-02-27,8:00p,Charlotte Hornets,,Milwaukee Bucks,
+2024-02-27,10:00p,Houston Rockets,,Oklahoma City Thunder,
+2024-02-27,10:00p,Miami Heat,,Portland Trail Blazers,
+2024-02-28,7:00p,New Orleans Pelicans,,Indiana Pacers,
+2024-02-28,7:30p,Memphis Grizzlies,,Minnesota Timberwolves,
+2024-02-28,7:30p,Dallas Mavericks,,Toronto Raptors,
+2024-02-28,8:00p,Cleveland Cavaliers,,Chicago Bulls,
+2024-02-28,9:00p,Sacramento Kings,,Denver Nuggets,
+2024-02-28,10:00p,Los Angeles Lakers,,Los Angeles Clippers,
+2024-02-29,7:00p,Milwaukee Bucks,,Charlotte Hornets,
+2024-02-29,7:00p,Utah Jazz,,Orlando Magic,
+2024-02-29,7:30p,Atlanta Hawks,,Brooklyn Nets,
+2024-02-29,7:30p,Golden State Warriors,,New York Knicks,
+2024-02-29,8:30p,Oklahoma City Thunder,,San Antonio Spurs,
+2024-02-29,9:00p,Houston Rockets,,Phoenix Suns,
+2024-02-29,10:00p,Miami Heat,,Denver Nuggets,
+2024-02-29,10:30p,Washington Wizards,,Los Angeles Lakers,
+2024-03-01,7:00p,Cleveland Cavaliers,,Detroit Pistons,
+2024-03-01,7:00p,Charlotte Hornets,,Philadelphia 76ers,
+2024-03-01,7:30p,Dallas Mavericks,,Boston Celtics,
+2024-03-01,7:30p,Golden State Warriors,,Toronto Raptors,
+2024-03-01,8:00p,Portland Trail Blazers,,Memphis Grizzlies,
+2024-03-01,8:00p,Sacramento Kings,,Minnesota Timberwolves,
+2024-03-01,8:00p,Indiana Pacers,,New Orleans Pelicans,
+2024-03-01,10:00p,Milwaukee Bucks,,Chicago Bulls,
+2024-03-01,10:30p,Washington Wizards,,Los Angeles Clippers,
+2024-03-02,3:00p,Atlanta Hawks,,Brooklyn Nets,
+2024-03-02,5:00p,Utah Jazz,,Miami Heat,
+2024-03-02,8:00p,Portland Trail Blazers,,Memphis Grizzlies,
+2024-03-02,8:30p,Denver Nuggets,,Los Angeles Lakers,
+2024-03-02,9:00p,Houston Rockets,,Phoenix Suns,
+2024-03-03,1:00p,Philadelphia 76ers,,Dallas Mavericks,
+2024-03-03,3:30p,Golden State Warriors,,Boston Celtics,
+2024-03-03,3:30p,Los Angeles Clippers,,Minnesota Timberwolves,
+2024-03-03,6:00p,Detroit Pistons,,Orlando Magic,
+2024-03-03,6:00p,Charlotte Hornets,,Toronto Raptors,
+2024-03-03,7:00p,New York Knicks,,Cleveland Cavaliers,
+2024-03-03,7:00p,Indiana Pacers,,San Antonio Spurs,
+2024-03-03,9:30p,Oklahoma City Thunder,,Phoenix Suns,
+2024-03-04,7:30p,Memphis Grizzlies,,Brooklyn Nets,
+2024-03-04,8:00p,Los Angeles Clippers,,Milwaukee Bucks,
+2024-03-04,8:00p,Portland Trail Blazers,,Minnesota Timberwolves,
+2024-03-04,9:00p,Washington Wizards,,Utah Jazz,
+2024-03-04,10:00p,Chicago Bulls,,Sacramento Kings,
+2024-03-04,10:30p,Oklahoma City Thunder,,Los Angeles Lakers,
+2024-03-05,7:00p,Orlando Magic,,Charlotte Hornets,
+2024-03-05,7:00p,Boston Celtics,,Cleveland Cavaliers,
+2024-03-05,7:30p,Philadelphia 76ers,,Brooklyn Nets,
+2024-03-05,7:30p,Detroit Pistons,,Miami Heat,
+2024-03-05,7:30p,Atlanta Hawks,,New York Knicks,
+2024-03-05,7:30p,New Orleans Pelicans,,Toronto Raptors,
+2024-03-05,8:00p,San Antonio Spurs,,Houston Rockets,
+2024-03-05,8:30p,Indiana Pacers,,Dallas Mavericks,
+2024-03-05,10:00p,Phoenix Suns,,Denver Nuggets,
+2024-03-06,7:00p,Orlando Magic,,Washington Wizards,
+2024-03-06,7:30p,Cleveland Cavaliers,,Atlanta Hawks,
+2024-03-06,7:30p,Memphis Grizzlies,,Philadelphia 76ers,
+2024-03-06,8:00p,Los Angeles Clippers,,Houston Rockets,
+2024-03-06,9:00p,Chicago Bulls,,Utah Jazz,
+2024-03-06,10:00p,Milwaukee Bucks,,Golden State Warriors,
+2024-03-06,10:00p,Oklahoma City Thunder,,Portland Trail Blazers,
+2024-03-06,10:30p,Sacramento Kings,,Los Angeles Lakers,
+2024-03-07,7:00p,Brooklyn Nets,,Detroit Pistons,
+2024-03-07,7:00p,Minnesota Timberwolves,,Indiana Pacers,
+2024-03-07,7:30p,Miami Heat,,Dallas Mavericks,
+2024-03-07,9:00p,Toronto Raptors,,Phoenix Suns,
+2024-03-07,10:00p,Boston Celtics,,Denver Nuggets,
+2024-03-07,10:00p,Chicago Bulls,,Golden State Warriors,
+2024-03-07,10:00p,San Antonio Spurs,,Sacramento Kings,
+2024-03-08,7:00p,New Orleans Pelicans,,Philadelphia 76ers,
+2024-03-08,7:00p,Charlotte Hornets,,Washington Wizards,
+2024-03-08,7:30p,Minnesota Timberwolves,,Cleveland Cavaliers,
+2024-03-08,7:30p,Atlanta Hawks,,Memphis Grizzlies,
+2024-03-08,7:30p,Orlando Magic,,New York Knicks,
+2024-03-08,8:00p,Miami Heat,,Oklahoma City Thunder,
+2024-03-08,10:00p,Milwaukee Bucks,,Los Angeles Lakers,
+2024-03-08,10:00p,Houston Rockets,,Portland Trail Blazers,
+2024-03-09,4:00p,Chicago Bulls,,Los Angeles Clippers,
+2024-03-09,7:00p,Brooklyn Nets,,Charlotte Hornets,
+2024-03-09,7:00p,Dallas Mavericks,,Detroit Pistons,
+2024-03-09,8:30p,San Antonio Spurs,,Golden State Warriors,
+2024-03-09,8:30p,Boston Celtics,,Phoenix Suns,
+2024-03-09,10:00p,Utah Jazz,,Denver Nuggets,
+2024-03-09,10:00p,Toronto Raptors,,Portland Trail Blazers,
+2024-03-10,3:00p,Milwaukee Bucks,,Los Angeles Clippers,
+2024-03-10,6:00p,New Orleans Pelicans,,Atlanta Hawks,
+2024-03-10,6:00p,Washington Wizards,,Miami Heat,
+2024-03-10,6:00p,Philadelphia 76ers,,New York Knicks,
+2024-03-10,6:00p,Indiana Pacers,,Orlando Magic,
+2024-03-10,6:00p,Houston Rockets,,Sacramento Kings,
+2024-03-10,7:00p,Brooklyn Nets,,Cleveland Cavaliers,
+2024-03-10,7:00p,Memphis Grizzlies,,Oklahoma City Thunder,
+2024-03-10,9:30p,Minnesota Timberwolves,,Los Angeles Lakers,
+2024-03-11,7:00p,Charlotte Hornets,,Detroit Pistons,
+2024-03-11,7:30p,Phoenix Suns,,Cleveland Cavaliers,
+2024-03-11,8:00p,Dallas Mavericks,,Chicago Bulls,
+2024-03-11,8:00p,Golden State Warriors,,San Antonio Spurs,
+2024-03-11,9:00p,Toronto Raptors,,Denver Nuggets,
+2024-03-11,10:30p,Boston Celtics,,Portland Trail Blazers,
+2024-03-12,7:30p,Philadelphia 76ers,,New York Knicks,
+2024-03-12,8:00p,Washington Wizards,,Memphis Grizzlies,
+2024-03-12,8:00p,Indiana Pacers,,Oklahoma City Thunder,
+2024-03-12,8:30p,Houston Rockets,,San Antonio Spurs,
+2024-03-12,9:00p,Boston Celtics,,Utah Jazz,
+2024-03-12,10:00p,Minnesota Timberwolves,,Los Angeles Clippers,
+2024-03-12,10:00p,Milwaukee Bucks,,Sacramento Kings,
+2024-03-13,7:00p,Toronto Raptors,,Detroit Pistons,
+2024-03-13,7:00p,Brooklyn Nets,,Orlando Magic,
+2024-03-13,7:30p,Chicago Bulls,,Indiana Pacers,
+2024-03-13,7:30p,Denver Nuggets,,Miami Heat,
+2024-03-13,8:00p,Charlotte Hornets,,Memphis Grizzlies,
+2024-03-13,8:00p,Cleveland Cavaliers,,New Orleans Pelicans,
+2024-03-13,8:30p,Golden State Warriors,,Dallas Mavericks,
+2024-03-13,10:00p,Atlanta Hawks,,Portland Trail Blazers,
+2024-03-13,10:00p,Los Angeles Lakers,,Sacramento Kings,
+2024-03-14,7:30p,Phoenix Suns,,Boston Celtics,
+2024-03-14,8:00p,Los Angeles Clippers,,Chicago Bulls,
+2024-03-14,8:00p,Washington Wizards,,Houston Rockets,
+2024-03-14,8:00p,Philadelphia 76ers,,Milwaukee Bucks,
+2024-03-14,10:00p,Dallas Mavericks,,Oklahoma City Thunder,
+2024-03-14,10:00p,New York Knicks,,Portland Trail Blazers,
+2024-03-15,7:00p,Phoenix Suns,,Charlotte Hornets,
+2024-03-15,7:00p,Miami Heat,,Detroit Pistons,
+2024-03-15,7:30p,Orlando Magic,,Toronto Raptors,
+2024-03-15,8:00p,Los Angeles Clippers,,New Orleans Pelicans,
+2024-03-15,8:30p,Denver Nuggets,,San Antonio Spurs,
+2024-03-15,9:30p,Atlanta Hawks,,Utah Jazz,
+2024-03-16,5:00p,Cleveland Cavaliers,,Houston Rockets,
+2024-03-16,7:00p,Brooklyn Nets,,Indiana Pacers,
+2024-03-16,7:00p,Portland Trail Blazers,,New Orleans Pelicans,
+2024-03-16,7:00p,Charlotte Hornets,,Philadelphia 76ers,
+2024-03-16,8:00p,Washington Wizards,,Chicago Bulls,
+2024-03-16,8:00p,Oklahoma City Thunder,,Memphis Grizzlies,
+2024-03-16,8:30p,Golden State Warriors,,Los Angeles Lakers,
+2024-03-16,9:30p,Minnesota Timberwolves,,Utah Jazz,
+2024-03-16,10:00p,New York Knicks,,Sacramento Kings,
+2024-03-17,1:00p,Phoenix Suns,,Milwaukee Bucks,
+2024-03-17,3:00p,Miami Heat,,Detroit Pistons,
+2024-03-17,3:30p,Denver Nuggets,,Dallas Mavericks,
+2024-03-17,6:00p,Toronto Raptors,,Orlando Magic,
+2024-03-17,6:00p,Boston Celtics,,Washington Wizards,
+2024-03-17,7:00p,Brooklyn Nets,,San Antonio Spurs,
+2024-03-17,9:30p,Atlanta Hawks,,Los Angeles Clippers,
+2024-03-18,7:00p,Cleveland Cavaliers,,Indiana Pacers,
+2024-03-18,7:30p,Detroit Pistons,,Boston Celtics,
+2024-03-18,7:30p,Miami Heat,,Philadelphia 76ers,
+2024-03-18,8:00p,Portland Trail Blazers,,Chicago Bulls,
+2024-03-18,9:00p,Minnesota Timberwolves,,Utah Jazz,
+2024-03-18,10:00p,New York Knicks,,Golden State Warriors,
+2024-03-18,10:00p,Memphis Grizzlies,,Sacramento Kings,
+2024-03-18,10:30p,Atlanta Hawks,,Los Angeles Lakers,
+2024-03-19,7:00p,Charlotte Hornets,,Orlando Magic,
+2024-03-19,7:00p,Houston Rockets,,Washington Wizards,
+2024-03-19,7:30p,New Orleans Pelicans,,Brooklyn Nets,
+2024-03-19,8:00p,Dallas Mavericks,,San Antonio Spurs,
+2024-03-19,9:00p,Denver Nuggets,,Minnesota Timberwolves,
+2024-03-20,7:00p,Miami Heat,,Cleveland Cavaliers,
+2024-03-20,7:00p,Indiana Pacers,,Detroit Pistons,
+2024-03-20,7:30p,Milwaukee Bucks,,Boston Celtics,
+2024-03-20,7:30p,Sacramento Kings,,Toronto Raptors,
+2024-03-20,8:00p,Utah Jazz,,Oklahoma City Thunder,
+2024-03-20,10:00p,Memphis Grizzlies,,Golden State Warriors,
+2024-03-20,10:00p,Philadelphia 76ers,,Phoenix Suns,
+2024-03-20,10:00p,Los Angeles Clippers,,Portland Trail Blazers,
+2024-03-21,7:00p,New Orleans Pelicans,,Orlando Magic,
+2024-03-21,7:00p,Sacramento Kings,,Washington Wizards,
+2024-03-21,8:00p,Chicago Bulls,,Houston Rockets,
+2024-03-21,8:00p,Brooklyn Nets,,Milwaukee Bucks,
+2024-03-21,8:30p,Utah Jazz,,Dallas Mavericks,
+2024-03-21,9:00p,New York Knicks,,Denver Nuggets,
+2024-03-21,10:30p,Atlanta Hawks,,Phoenix Suns,
+2024-03-22,7:00p,Boston Celtics,,Detroit Pistons,
+2024-03-22,7:00p,Oklahoma City Thunder,,Toronto Raptors,
+2024-03-22,8:00p,New Orleans Pelicans,,Miami Heat,
+2024-03-22,8:00p,Cleveland Cavaliers,,Minnesota Timberwolves,
+2024-03-22,8:00p,Memphis Grizzlies,,San Antonio Spurs,
+2024-03-22,10:00p,Indiana Pacers,,Golden State Warriors,
+2024-03-22,10:00p,Los Angeles Clippers,,Portland Trail Blazers,
+2024-03-22,10:30p,Philadelphia 76ers,,Los Angeles Lakers,
+2024-03-23,1:00p,Brooklyn Nets,,New York Knicks,
+2024-03-23,7:00p,Sacramento Kings,,Orlando Magic,
+2024-03-23,7:30p,Charlotte Hornets,,Atlanta Hawks,
+2024-03-23,8:00p,Boston Celtics,,Chicago Bulls,
+2024-03-23,8:00p,Utah Jazz,,Houston Rockets,
+2024-03-23,8:00p,Phoenix Suns,,San Antonio Spurs,
+2024-03-23,8:00p,Toronto Raptors,,Washington Wizards,
+2024-03-23,10:00p,Denver Nuggets,,Portland Trail Blazers,
+2024-03-24,3:00p,New Orleans Pelicans,,Detroit Pistons,
+2024-03-24,3:30p,Philadelphia 76ers,,Los Angeles Clippers,
+2024-03-24,6:00p,Cleveland Cavaliers,,Miami Heat,
+2024-03-24,7:00p,Oklahoma City Thunder,,Milwaukee Bucks,
+2024-03-24,7:00p,Golden State Warriors,,Minnesota Timberwolves,
+2024-03-24,10:00p,Indiana Pacers,,Los Angeles Lakers,
+2024-03-25,7:00p,Charlotte Hornets,,Cleveland Cavaliers,
+2024-03-25,7:30p,Boston Celtics,,Atlanta Hawks,
+2024-03-25,7:30p,Detroit Pistons,,New York Knicks,
+2024-03-25,7:30p,Brooklyn Nets,,Toronto Raptors,
+2024-03-25,8:00p,Washington Wizards,,Chicago Bulls,
+2024-03-25,8:00p,Portland Trail Blazers,,Houston Rockets,
+2024-03-25,8:00p,Phoenix Suns,,San Antonio Spurs,
+2024-03-25,9:00p,Memphis Grizzlies,,Denver Nuggets,
+2024-03-25,9:00p,Dallas Mavericks,,Utah Jazz,
+2024-03-25,10:00p,Philadelphia 76ers,,Sacramento Kings,
+2024-03-25,10:30p,Indiana Pacers,,Los Angeles Clippers,
+2024-03-26,7:30p,Golden State Warriors,,Miami Heat,
+2024-03-26,7:30p,Los Angeles Lakers,,Milwaukee Bucks,
+2024-03-26,8:00p,Oklahoma City Thunder,,New Orleans Pelicans,
+2024-03-26,10:00p,Dallas Mavericks,,Sacramento Kings,
+2024-03-27,7:00p,Cleveland Cavaliers,,Charlotte Hornets,
+2024-03-27,7:00p,Golden State Warriors,,Orlando Magic,
+2024-03-27,7:00p,Brooklyn Nets,,Washington Wizards,
+2024-03-27,7:30p,Portland Trail Blazers,,Atlanta Hawks,
+2024-03-27,7:30p,Los Angeles Clippers,,Philadelphia 76ers,
+2024-03-27,7:30p,New York Knicks,,Toronto Raptors,
+2024-03-27,8:00p,Indiana Pacers,,Chicago Bulls,
+2024-03-27,8:00p,Los Angeles Lakers,,Memphis Grizzlies,
+2024-03-27,8:00p,Detroit Pistons,,Minnesota Timberwolves,
+2024-03-27,8:00p,Houston Rockets,,Oklahoma City Thunder,
+2024-03-27,9:00p,San Antonio Spurs,,Utah Jazz,
+2024-03-27,10:00p,Phoenix Suns,,Denver Nuggets,
+2024-03-28,7:30p,Boston Celtics,,Atlanta Hawks,
+2024-03-28,8:00p,Milwaukee Bucks,,New Orleans Pelicans,
+2024-03-29,7:00p,Golden State Warriors,,Charlotte Hornets,
+2024-03-29,7:00p,Los Angeles Lakers,,Indiana Pacers,
+2024-03-29,7:00p,Los Angeles Clippers,,Orlando Magic,
+2024-03-29,7:00p,Detroit Pistons,,Washington Wizards,
+2024-03-29,7:30p,Chicago Bulls,,Brooklyn Nets,
+2024-03-29,7:30p,Philadelphia 76ers,,Cleveland Cavaliers,
+2024-03-29,8:00p,Portland Trail Blazers,,Miami Heat,
+2024-03-29,8:00p,Phoenix Suns,,Oklahoma City Thunder,
+2024-03-29,8:00p,New York Knicks,,San Antonio Spurs,
+2024-03-29,9:00p,Minnesota Timberwolves,,Denver Nuggets,
+2024-03-29,9:30p,Houston Rockets,,Utah Jazz,
+2024-03-29,10:00p,Dallas Mavericks,,Sacramento Kings,
+2024-03-30,5:00p,Boston Celtics,,New Orleans Pelicans,
+2024-03-30,7:00p,Memphis Grizzlies,,Orlando Magic,
+2024-03-30,7:30p,Milwaukee Bucks,,Atlanta Hawks,
+2024-03-31,3:30p,Cleveland Cavaliers,,Denver Nuggets,
+2024-03-31,6:00p,Los Angeles Lakers,,Brooklyn Nets,
+2024-03-31,6:00p,Los Angeles Clippers,,Charlotte Hornets,
+2024-03-31,6:00p,Philadelphia 76ers,,Toronto Raptors,
+2024-03-31,6:00p,Miami Heat,,Washington Wizards,
+2024-03-31,7:00p,Dallas Mavericks,,Houston Rockets,
+2024-03-31,7:00p,Chicago Bulls,,Minnesota Timberwolves,
+2024-03-31,7:00p,Oklahoma City Thunder,,New York Knicks,
+2024-03-31,7:00p,Golden State Warriors,,San Antonio Spurs,
+2024-03-31,9:00p,Utah Jazz,,Sacramento Kings,
+2024-04-01,7:00p,Boston Celtics,,Charlotte Hornets,
+2024-04-01,7:00p,Memphis Grizzlies,,Detroit Pistons,
+2024-04-01,7:00p,Brooklyn Nets,,Indiana Pacers,
+2024-04-01,7:00p,Portland Trail Blazers,,Orlando Magic,
+2024-04-01,8:00p,Atlanta Hawks,,Chicago Bulls,
+2024-04-01,8:00p,Phoenix Suns,,New Orleans Pelicans,
+2024-04-02,7:00p,Los Angeles Lakers,,Toronto Raptors,
+2024-04-02,7:00p,Milwaukee Bucks,,Washington Wizards,
+2024-04-02,7:30p,New York Knicks,,Miami Heat,
+2024-04-02,7:30p,Oklahoma City Thunder,,Philadelphia 76ers,
+2024-04-02,8:00p,Houston Rockets,,Minnesota Timberwolves,
+2024-04-02,9:00p,San Antonio Spurs,,Denver Nuggets,
+2024-04-02,9:00p,Cleveland Cavaliers,,Utah Jazz,
+2024-04-02,10:00p,Dallas Mavericks,,Golden State Warriors,
+2024-04-02,10:00p,Los Angeles Clippers,,Sacramento Kings,
+2024-04-03,7:00p,Portland Trail Blazers,,Charlotte Hornets,
+2024-04-03,7:00p,Los Angeles Lakers,,Washington Wizards,
+2024-04-03,7:30p,Detroit Pistons,,Atlanta Hawks,
+2024-04-03,7:30p,Oklahoma City Thunder,,Boston Celtics,
+2024-04-03,7:30p,Indiana Pacers,,Brooklyn Nets,
+2024-04-03,7:30p,Memphis Grizzlies,,Milwaukee Bucks,
+2024-04-03,8:00p,Toronto Raptors,,Minnesota Timberwolves,
+2024-04-03,8:00p,Orlando Magic,,New Orleans Pelicans,
+2024-04-03,10:00p,Cleveland Cavaliers,,Phoenix Suns,
+2024-04-04,7:30p,Philadelphia 76ers,,Miami Heat,
+2024-04-04,7:30p,Sacramento Kings,,New York Knicks,
+2024-04-04,8:00p,Golden State Warriors,,Houston Rockets,
+2024-04-04,8:30p,Atlanta Hawks,,Dallas Mavericks,
+2024-04-04,10:00p,Denver Nuggets,,Los Angeles Clippers,
+2024-04-05,7:00p,Orlando Magic,,Charlotte Hornets,
+2024-04-05,7:00p,Oklahoma City Thunder,,Indiana Pacers,
+2024-04-05,7:00p,Portland Trail Blazers,,Washington Wizards,
+2024-04-05,7:30p,Sacramento Kings,,Boston Celtics,
+2024-04-05,8:00p,New York Knicks,,Chicago Bulls,
+2024-04-05,8:00p,Miami Heat,,Houston Rockets,
+2024-04-05,8:00p,Detroit Pistons,,Memphis Grizzlies,
+2024-04-05,8:00p,Toronto Raptors,,Milwaukee Bucks,
+2024-04-05,8:00p,San Antonio Spurs,,New Orleans Pelicans,
+2024-04-05,8:30p,Golden State Warriors,,Dallas Mavericks,
+2024-04-05,10:00p,Minnesota Timberwolves,,Phoenix Suns,
+2024-04-05,10:30p,Utah Jazz,,Los Angeles Clippers,
+2024-04-06,3:30p,Cleveland Cavaliers,,Los Angeles Lakers,
+2024-04-06,7:00p,Detroit Pistons,,Brooklyn Nets,
+2024-04-06,8:00p,Philadelphia 76ers,,Memphis Grizzlies,
+2024-04-06,9:00p,Atlanta Hawks,,Denver Nuggets,
+2024-04-07,3:30p,Houston Rockets,,Dallas Mavericks,
+2024-04-07,3:30p,Cleveland Cavaliers,,Los Angeles Clippers,
+2024-04-07,5:00p,Miami Heat,,Indiana Pacers,
+2024-04-07,6:00p,Portland Trail Blazers,,Boston Celtics,
+2024-04-07,6:00p,Oklahoma City Thunder,,Charlotte Hornets,
+2024-04-07,6:00p,Chicago Bulls,,Orlando Magic,
+2024-04-07,6:00p,New Orleans Pelicans,,Phoenix Suns,
+2024-04-07,6:00p,Washington Wizards,,Toronto Raptors,
+2024-04-07,7:00p,New York Knicks,,Milwaukee Bucks,
+2024-04-07,7:00p,Philadelphia 76ers,,San Antonio Spurs,
+2024-04-07,7:30p,Sacramento Kings,,Brooklyn Nets,
+2024-04-07,8:30p,Utah Jazz,,Golden State Warriors,
+2024-04-07,10:00p,Minnesota Timberwolves,,Los Angeles Lakers,
+2024-04-09,7:00p,Dallas Mavericks,,Charlotte Hornets,
+2024-04-09,7:00p,Detroit Pistons,,Philadelphia 76ers,
+2024-04-09,7:00p,Indiana Pacers,,Toronto Raptors,
+2024-04-09,7:30p,Miami Heat,,Atlanta Hawks,
+2024-04-09,7:30p,Boston Celtics,,Milwaukee Bucks,
+2024-04-09,8:00p,New York Knicks,,Chicago Bulls,
+2024-04-09,8:00p,Orlando Magic,,Houston Rockets,
+2024-04-09,8:00p,San Antonio Spurs,,Memphis Grizzlies,
+2024-04-09,8:00p,Washington Wizards,,Minnesota Timberwolves,
+2024-04-09,8:00p,Sacramento Kings,,Oklahoma City Thunder,
+2024-04-09,9:00p,Denver Nuggets,,Utah Jazz,
+2024-04-09,10:00p,Golden State Warriors,,Los Angeles Lakers,
+2024-04-09,10:00p,Los Angeles Clippers,,Phoenix Suns,
+2024-04-09,10:00p,New Orleans Pelicans,,Portland Trail Blazers,
+2024-04-10,7:00p,Memphis Grizzlies,,Cleveland Cavaliers,
+2024-04-10,7:30p,Charlotte Hornets,,Atlanta Hawks,
+2024-04-10,7:30p,Toronto Raptors,,Brooklyn Nets,
+2024-04-10,7:30p,Dallas Mavericks,,Miami Heat,
+2024-04-10,8:00p,Orlando Magic,,Milwaukee Bucks,
+2024-04-10,8:00p,San Antonio Spurs,,Oklahoma City Thunder,
+2024-04-10,10:00p,Minnesota Timberwolves,,Denver Nuggets,
+2024-04-10,10:30p,Phoenix Suns,,Los Angeles Clippers,
+2024-04-11,7:00p,Chicago Bulls,,Detroit Pistons,
+2024-04-11,7:30p,New York Knicks,,Boston Celtics,
+2024-04-11,9:00p,Houston Rockets,,Utah Jazz,
+2024-04-11,10:00p,Golden State Warriors,,Portland Trail Blazers,
+2024-04-11,10:00p,New Orleans Pelicans,,Sacramento Kings,
+2024-04-12,7:00p,Orlando Magic,,Philadelphia 76ers,
+2024-04-12,7:00p,Chicago Bulls,,Washington Wizards,
+2024-04-12,7:30p,Charlotte Hornets,,Boston Celtics,
+2024-04-12,7:30p,Indiana Pacers,,Cleveland Cavaliers,
+2024-04-12,7:30p,Brooklyn Nets,,New York Knicks,
+2024-04-12,8:00p,Los Angeles Lakers,,Memphis Grizzlies,
+2024-04-12,8:00p,Toronto Raptors,,Miami Heat,
+2024-04-12,8:00p,Atlanta Hawks,,Minnesota Timberwolves,
+2024-04-12,8:00p,Milwaukee Bucks,,Oklahoma City Thunder,
+2024-04-12,8:00p,Denver Nuggets,,San Antonio Spurs,
+2024-04-12,8:30p,Detroit Pistons,,Dallas Mavericks,
+2024-04-12,10:00p,New Orleans Pelicans,,Golden State Warriors,
+2024-04-12,10:00p,Houston Rockets,,Portland Trail Blazers,
+2024-04-12,10:30p,Utah Jazz,,Los Angeles Clippers,
+2024-04-12,10:30p,Phoenix Suns,,Sacramento Kings,
+2024-04-14,1:00p,Washington Wizards,,Boston Celtics,
+2024-04-14,1:00p,Charlotte Hornets,,Cleveland Cavaliers,
+2024-04-14,1:00p,Atlanta Hawks,,Indiana Pacers,
+2024-04-14,1:00p,Toronto Raptors,,Miami Heat,
+2024-04-14,1:00p,Chicago Bulls,,New York Knicks,
+2024-04-14,1:00p,Milwaukee Bucks,,Orlando Magic,
+2024-04-14,1:00p,Brooklyn Nets,,Philadelphia 76ers,
+2024-04-14,3:30p,Utah Jazz,,Golden State Warriors,
+2024-04-14,3:30p,Houston Rockets,,Los Angeles Clippers,
+2024-04-14,3:30p,Denver Nuggets,,Memphis Grizzlies,
+2024-04-14,3:30p,Phoenix Suns,,Minnesota Timberwolves,
+2024-04-14,3:30p,Los Angeles Lakers,,New Orleans Pelicans,
+2024-04-14,3:30p,Dallas Mavericks,,Oklahoma City Thunder,
+2024-04-14,3:30p,Portland Trail Blazers,,Sacramento Kings,
+2024-04-14,3:30p,Detroit Pistons,,San Antonio Spurs,
